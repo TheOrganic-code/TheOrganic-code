@@ -1,8 +1,14 @@
 # TheOrganic-code
 
+<div align="center">
+
+### AI/ML Engineer | Deep Learning | Neural Networks
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient:0f0f23-1a1a2e&height=120&text=AI%20%2F%20ML%20Engineer&fontSize=50&fontAlign=50&animation=fadeIn" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&color=00ff88&background=0f0f23&center=true&vCenter=true&width=550&height=50&lines=Building+intelligent+systems;Training+neural+networks;Exploring+AI+architectures&pause=2000"/>
 </p>
+
+</div>
 
 ```python
 class Engineer:
@@ -33,18 +39,10 @@ AI/ML Engineer specializing in developing intelligent systems through deep learn
 
 ---
 
-## Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
-
----
-
 ## Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TheOrganic-code&theme=transparent&hide_border=true&bg_color=0d1117&text_color=58a6ff&title_color=00ff88&fire=ff6b6b&ring=00ff88&sideNums=58a6ff" alt="stats"/>
+  <img src="https://streak-stats.demolab.com/?user=TheOrganic-code&theme=transparent&hide_border=true&bg_color=0f0f23&text_color=58a6ff&title_color=00ff88&fire=ff6b6b&ring=00ff88&sideNums=58a6ff" alt="stats"/>
 </p>
 
 ---
@@ -52,7 +50,7 @@ AI/ML Engineer specializing in developing intelligent systems through deep learn
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheOrganic-code&bg_color=0d1117&color=00ff88&line=00ff88&point=ff6b6b&area=true&hide_border=false&height=200" alt="activity"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheOrganic-code&bg_color=0f0f23&color=00ff88&line=00ff88&point=ff6b6b&area=true&hide_border=false&height=200" alt="activity"/>
 </p>
 
 ---
@@ -71,9 +69,3 @@ AI/ML Engineer specializing in developing intelligent systems through deep learn
 - [Twitter](https://twitter.com/TheOrganic-code)
 - [LinkedIn](https://linkedin.com/in/TheOrganic-code)
 - [HuggingFace](https://huggingface.co/TheOrganic-code)
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00ff88,100:0088ff&height=60" width="100%"/>
-</p>
