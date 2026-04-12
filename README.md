@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdtZWc4eDlxbjNxajZ6eDlxbjNxajZ6eDlxbjNxajZ6eDlxbjNxajZ6eDlxbjNxZyZlcD12MV9pbnRlcm5hbF9naWZfY29sb3JfaWNvbnMmZ2Q9ZyZ2PTY1MDk2MTY5Mg" width="50"> Hi, I'm Ayush Pandey
+# Hi, I'm Ayush Pandey
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 ---
 
-I'm a first-year B.Tech student in **Mathematics and Computing** at RGIPT Amethi, working at the intersection of **physics-informed machine learning**, **statistical mechanics**, and **systems programming**.
+I'm a B.Tech student in **Mathematics and Computing** at RGIPT Amethi, working at the intersection of **physics-informed machine learning**, **statistical mechanics**, and **systems programming**.
 
 ---
 
@@ -93,7 +93,7 @@ I'm a first-year B.Tech student in **Mathematics and Computing** at RGIPT Amethi
 ## Resume
 
 <p align="center">
-  <a href="https://github.com/TheOrganic-code/TheOrganic-code/raw/main/Ayush_Pandey_Research_Resume.pdf">
+  <a href="https://github.com/TheOrganic-code/Ayush_Pandey_Research_Resume.pdf">
     <img src="https://img.shields.io/badge/Download%20Resume-9b4dca?style=for-the-badge&logo=pdf&logoColor=white" alt="resume"/>
   </a>
 </p>
