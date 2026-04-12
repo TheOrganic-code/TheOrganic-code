@@ -2,29 +2,34 @@
 
 <div align="center">
 
-### AI/ML Engineer | Deep Learning | Neural Networks
+# TheOrganic-code
+
+### AI/ML Engineer | Probabilistic Computing | NumPy Pandas TensorFlow
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&color=00ff88&background=0f0f23&center=true&vCenter=true&width=550&height=50&lines=Building+intelligent+systems;Training+neural+networks;Exploring+AI+architectures&pause=2000"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&color=00ff88&background=0f0f23&center=true&vCenter=true&width=550&height=50&lines=Building+intelligent+systems;Training+neural+networks;Predicting+Muon+Sites&pause=2000"/>
 </p>
 
 </div>
 
+<br>
+
 <p align="center">
-<b>
-no cap, i'm just someone who loves teaching machines to think<br>
+<h2>
+no cap, i'm literally out here teaching machines to think<br>
 building models, breaking things, fixing them again<br>
-basically telling computers: "you up for this?"
-</b>
+right now? using ML to predict <b>Muon Sites</b> - wild stuff<br>
+basically telling computers: "you up for this?"<br>
+</h2>
 </p>
 
 ---
 
 ## About
 
-AI/ML Engineer specializing in developing intelligent systems through deep learning and neural networks. Currently focused on training neural networks, building efficient ML pipelines, and exploring cutting-edge AI architectures to push the boundaries of machine intelligence.
+AI/ML Engineer specializing in developing intelligent systems through deep learning, probabilistic computing, and neural networks. Currently focused on using ML to predict Muon Sites, building efficient ML pipelines, and exploring cutting-edge AI architectures to push the boundaries of machine intelligence.
 
-**Building now:** Neural network projects and advanced AI architectures.
+**Building now:** Muon Site prediction using ML | Probabilistic models
 
 ---
 
@@ -54,9 +59,13 @@ AI/ML Engineer specializing in developing intelligent systems through deep learn
 
 ## Tech Stack
 
-**Languages & Frameworks:** Python, TensorFlow, PyTorch, Keras, OpenCV
+**Languages:** Python
 
-**Tools:** NumPy, Pandas, Scikit-learn, Jupyter, Docker, Git
+**Frameworks:** NumPy, Pandas, TensorFlow, PyTorch, Keras, OpenCV
+
+**Tools:** Scikit-learn, Jupyter, Docker, Git
+
+**Specialized:** Probabilistic Computing, ML for Scientific Research
 
 ---
 
