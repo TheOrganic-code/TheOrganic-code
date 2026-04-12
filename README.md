@@ -14,13 +14,18 @@
 
 <br>
 
+<div align="center">
+<p>
+no cap, i'm literally out here teaching machines to think, building models that actually learn stuff. right now deep in the lab working on using ML to predict Muon Sites - yeah those mysterious particles that fall from the sky. it's wild using probability and stats to figure out where they'll pop up next. some days the model works, some days it doesn't, but that's the grind. breaking things, fixing them, learning more. basically telling computers "you up for this?" and watching them figure it out. this is literally my vibe - pushing AI forward one model at a time.
+</p>
+</div>
+
+---
+
+## Play Snake
+
 <p align="center">
-<h2>
-no cap, i'm literally out here teaching machines to think<br>
-building models, breaking things, fixing them again<br>
-right now? using ML to predict <b>Muon Sites</b> - wild stuff<br>
-basically telling computers: "you up for this?"<br>
-</h2>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake game"/>
 </p>
 
 ---
