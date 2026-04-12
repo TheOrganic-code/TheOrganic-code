@@ -33,7 +33,7 @@ no cap, i'm literally out here teaching machines to think, building models that 
 ## Play Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake game"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?color=9b4dca" alt="snake game"/>
 </p>
 
 ---
@@ -62,14 +62,6 @@ AI/ML Engineer specializing in developing intelligent systems through deep learn
 
 ---
 
-## Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheOrganic-code&bg_color=1a0a2e&color=9b4dca&line=9b4dca&point=ff6b6b&area=true&hide_border=false&height=200" alt="activity"/>
-</p>
-
----
-
 ## Tech Stack
 
 **Languages:** Python
@@ -94,7 +86,7 @@ AI/ML Engineer specializing in developing intelligent systems through deep learn
 ## Resume
 
 <p align="center">
-  <a href="https://github.com/TheOrganic-code/TheOrganic-code/Ayush_Pandey_Research_Resume.pdf">
+  <a href="https://github.com/TheOrganic-code/TheOrganic-code/raw/main/Ayush_Pandey_Research_Resume.pdf">
     <img src="https://img.shields.io/badge/Download%20Resume-9b4dca?style=for-the-badge&logo=pdf&logoColor=white" alt="resume"/>
   </a>
 </p>
