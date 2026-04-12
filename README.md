@@ -93,7 +93,7 @@ I'm a B.Tech student in **Mathematics and Computing** at RGIPT Amethi, working a
 ## Resume
 
 <p align="center">
-  <a href="https://github.com/TheOrganic-code/TheOrganic-code/Ayush_Pandey_Research_Resume.pdf">
+  <a href="https://github.com/TheOrganic-code/TheOrganic-code/blob/main/Ayush_Pandey_Research_Resume.pdf">
     <img src="https://img.shields.io/badge/Download%20Resume-9b4dca?style=for-the-badge&logo=pdf&logoColor=white" alt="resume"/>
   </a>
 </p>
