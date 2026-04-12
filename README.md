@@ -10,16 +10,13 @@
 
 </div>
 
-```python
-class Engineer:
-    def __init__(self):
-        self.role = "AI/ML Engineer"
-        self.focus = ["Deep Learning", "Neural Networks", "Machine Intelligence"]
-        self.current = "Building models that learn, adapt, and evolve"
-        
-    def solve(self, problem):
-        return self.learn(problem).optimize().deploy()
-```
+<p align="center">
+<b>
+no cap, i'm just someone who loves teaching machines to think<br>
+building models, breaking things, fixing them again<br>
+basically telling computers: "you up for this?"
+</b>
+</p>
 
 ---
 
