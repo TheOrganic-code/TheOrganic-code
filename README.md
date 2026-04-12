@@ -1,26 +1,32 @@
-# TheOrganic-code
+# Hi, I'm Ayush Pandey
 
-<div align="center">
+I'm a first-year B.Tech student in **Mathematics and Computing** at RGIPT Amethi, working at the intersection of **physics-informed machine learning**, **statistical mechanics**, and **systems programming**.
 
-# TheOrganic-code
+## What I'm building
 
-### AI/ML Engineer | Probabilistic Computing | NumPy Pandas TensorFlow
+- **Research Intern** at the [Quantum Materials Lab](https://sites.google.com/rgipt.ac.in/magneism-lab) — applying supervised ML to predict muon stopping sites in crystalline materials, integrating physics constraints directly into neural architectures.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&color=9b4dca&background=1a0a2e&center=true&vCenter=true&width=550&height=50&lines=Building+intelligent+systems;Training+neural+networks;Predicting+Muon+Sites&pause=2000"/>
-</p>
+- **[Rust Neural Network Framework](https://github.com/TheOrganic-code)** — building a high-performance ML framework from scratch with automatic differentiation, zero-cost abstractions, and memory safety guarantees.
 
-</div>
+- **[P-bit Simulator](https://github.com/TheOrganic-code/P-bit-Simulator)** — stochastic computing simulator grounded in Ising models and Boltzmann machines, with PyTorch-compatible APIs for hybrid deterministic-stochastic workflows.
 
-<br>
+## Core interests
 
-<div align="center">
-<p>
-no cap, i'm literally out here teaching machines to think, building models that actually learn stuff. right now deep in the lab working on using ML to predict Muon Sites - yeah those mysterious particles that fall from the sky. it's wild using probability and stats to figure out where they'll pop up next. some days the model works, some days it doesn't, but that's the grind. breaking things, fixing them, learning more. basically telling computers "you up for this?" and watching them figure it out. this is literally my vibe - pushing AI forward one model at a time.
-</p>
-</div>
+- **ML for Physical Systems** — bridging condensed matter theory with data-driven modeling
+- **Energy-Based Models & Probabilistic Computing** — Ising systems, thermal fluctuations, optimization landscapes
+- **Systems ML** — performance-critical inference pipelines where Python frameworks break down
+- **Interpretable AI** — Grad-CAM, attention mechanisms, model trustworthiness
+
+## Tech stack
+
+**Languages:** Python · Rust · C/C++  
+**ML/DL:** PyTorch · scikit-learn · Energy-Based Models  
+**Scientific:** NumPy · pymatgen · MATLAB  
+**Math:** Linear Algebra · Probability · Stochastic Processes · Differential Equations
 
 ---
+
+<div align="center">
 
 ## 3D Contribution Graph
 
@@ -33,23 +39,7 @@ no cap, i'm literally out here teaching machines to think, building models that 
 ## Play Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?color=9b4dca" alt="snake game"/>
-</p>
-
----
-
-## About
-
-AI/ML Engineer specializing in developing intelligent systems through deep learning, probabilistic computing, and neural networks. Currently focused on using ML to predict Muon Sites, building efficient ML pipelines, and exploring cutting-edge AI architectures to push the boundaries of machine intelligence.
-
-**Building now:** Muon Site prediction using ML | Probabilistic models
-
----
-
-## Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?theme=dark" alt="quote"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake game"/>
 </p>
 
 ---
@@ -62,23 +52,10 @@ AI/ML Engineer specializing in developing intelligent systems through deep learn
 
 ---
 
-## Tech Stack
-
-**Languages:** Python
-
-**Frameworks:** NumPy, Pandas, TensorFlow, PyTorch, Keras, OpenCV
-
-**Tools:** Scikit-learn, Jupyter, Docker, Git
-
-**Specialized:** Probabilistic Computing, ML for Scientific Research
-
----
-
 ## Connect
 
 - [GitHub](https://github.com/TheOrganic-code)
-- [Twitter](https://twitter.com/TheOrganic-code)
-- [LinkedIn](https://linkedin.com/in/TheOrganic-code)
+- [LinkedIn](https://linkedin.com/in/ayushpandey1801)
 - [HuggingFace](https://huggingface.co/TheOrganic-code)
 
 ---
@@ -90,3 +67,7 @@ AI/ML Engineer specializing in developing intelligent systems through deep learn
     <img src="https://img.shields.io/badge/Download%20Resume-9b4dca?style=for-the-badge&logo=pdf&logoColor=white" alt="resume"/>
   </a>
 </p>
+
+</div>
+
+📫 Reach me: [25mc3016@rgipt.ac.in](mailto:25mc3016@rgipt.ac.in) · [LinkedIn](https://linkedin.com/in/ayushpandey1801)
