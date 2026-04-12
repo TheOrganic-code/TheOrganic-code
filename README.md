@@ -1,28 +1,58 @@
-# Hi, I'm Ayush Pandey
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdtZWc4eDlxbjNxajZ6eDlxbjNxajZ6eDlxbjNxajZ6eDlxbjNxajZ6eDlxbjNxZyZlcD12MV9pbnRlcm5hbF9naWZfY29sb3JfaWNvbnMmZ2Q9ZyZ2PTY1MDk2MTY5Mg" width="50"> Hi, I'm Ayush Pandey
+
+<div align="center">
+
+![Mathematics & Computing](https://img.shields.io/badge/-B.Tech_Mathematics_&_Computing-9b4dca?style=flat&logoColor=white)
+![RGIPT Amethi](https://img.shields.io/badge/-RGIPT_Amethi-9b4dca?style=flat&logoColor=white)
+![Physics-Informed ML](https://img.shields.io/badge/-Physics_Informed_ML-9b4dca?style=flat&logoColor=white)
+
+</div>
+
+---
 
 I'm a first-year B.Tech student in **Mathematics and Computing** at RGIPT Amethi, working at the intersection of **physics-informed machine learning**, **statistical mechanics**, and **systems programming**.
 
-## What I'm building
+---
 
-- **Research Intern** at the [Quantum Materials Lab](https://sites.google.com/rgipt.ac.in/magneism-lab) — applying supervised ML to predict muon stopping sites in crystalline materials, integrating physics constraints directly into neural architectures.
+## What I'm Building
 
-- **[Rust Neural Network Framework](https://github.com/TheOrganic-code)** — building a high-performance ML framework from scratch with automatic differentiation, zero-cost abstractions, and memory safety guarantees.
+<div align="center">
 
-- **[P-bit Simulator](https://github.com/TheOrganic-code/P-bit-Simulator)** — stochastic computing simulator grounded in Ising models and Boltzmann machines, with PyTorch-compatible APIs for hybrid deterministic-stochastic workflows.
+| 🔬 Research | 🦀 Rust Framework | ⚛️ P-bit Simulator |
+|:---|:---|:---|
+| [Quantum Materials Lab](https://sites.google.com/rgipt.ac.in/magneism-lab) | [Rust NN Framework](https://github.com/TheOrganic-code) | [P-bit Simulator](https://github.com/TheOrganic-code/P-bit-Simulator) |
+| Predicting muon stopping sites in crystalline materials using supervised ML | High-performance ML framework with auto-differentiation | Ising models & Boltzmann machines with PyTorch APIs |
 
-## Core interests
+</div>
+
+---
+
+## Core Interests
+
+<p align="center">
 
 - **ML for Physical Systems** — bridging condensed matter theory with data-driven modeling
 - **Energy-Based Models & Probabilistic Computing** — Ising systems, thermal fluctuations, optimization landscapes
 - **Systems ML** — performance-critical inference pipelines where Python frameworks break down
 - **Interpretable AI** — Grad-CAM, attention mechanisms, model trustworthiness
 
-## Tech stack
+</p>
 
-**Languages:** Python · Rust · C/C++  
-**ML/DL:** PyTorch · scikit-learn · Energy-Based Models  
-**Scientific:** NumPy · pymatgen · MATLAB  
-**Math:** Linear Algebra · Probability · Stochastic Processes · Differential Equations
+---
+
+## Tech Stack
+
+<div align="center">
+
+**Languages:** `Python` · `Rust` · `C/C++`
+
+**ML/DL:** `PyTorch` · `scikit-learn` · `Energy-Based Models`
+
+**Scientific:** `NumPy` · `pymatgen` · `MATLAB`
+
+**Math:** `Linear Algebra` · `Probability` · `Stochastic Processes` · `Differential Equations`
+
+</div>
 
 ---
 
@@ -69,5 +99,7 @@ I'm a first-year B.Tech student in **Mathematics and Computing** at RGIPT Amethi
 </p>
 
 </div>
+
+---
 
 📫 Reach me: [25mc3016@rgipt.ac.in](mailto:25mc3016@rgipt.ac.in) · [LinkedIn](https://linkedin.com/in/ayushpandey1801)
