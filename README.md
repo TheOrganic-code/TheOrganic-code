@@ -11,6 +11,7 @@
 ---
 
 I'm a B.Tech student in **Mathematics and Computing** at RGIPT Amethi, working at the intersection of **physics-informed machine learning**, **statistical mechanics**, and **systems programming**.
+I am also into **LLM optimization** and **inference** ,**neural nets** and **deep learning**.
 
 ---
 
