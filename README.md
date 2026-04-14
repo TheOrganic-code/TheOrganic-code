@@ -51,7 +51,7 @@ I am also into **LLM optimization** and **inference** ,**neural nets** and **dee
 
 **Scientific:** `NumPy` · `pymatgen` · `MATLAB`
 
-**Math:** `Linear Algebra` · `Probability` · `Stochastic Processes` · `Differential Equations`
+**Math:** `Linear Algebra` · `Probability` · `Stochastic Processes` · `Differential Equations` . `Optimization` 
 
 </div>
 
