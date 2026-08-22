@@ -1,21 +1,27 @@
 <!-- ============================================================ -->
-<!--                     AYUSH PANDEY                              -->
-<!--          Mathematics × ML × Physics × Systems                  -->
+<!--                    AYUSH PANDEY                              -->
+<!--          ML · SCIENTIFIC COMPUTING · SYSTEMS                 -->
 <!-- ============================================================ -->
 
 <div align="center">
 
-# Hi, I'm Ayush Pandey 👋
+<h1>Ayush Pandey</h1>
 
-### Mathematics × Machine Learning × Physics × Systems
+<p>
+  Mathematics · Machine Learning · Scientific Computing · Systems
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=9B4DCA&center=true&vCenter=true&width=900&lines=Physics-Informed+Machine+Learning;Probabilistic+Computing+%26+Scientific+ML;Deep+Learning+%7C+LLM+Inference+%7C+Systems+ML;PyTorch+%7C+Rust+%7C+Triton+%7C+CUDA" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=9B4DCA&center=true&vCenter=true&width=900&lines=Physics-Informed+Machine+Learning;Probabilistic+Computing+and+Energy-Based+Models;Deep+Learning+%C2%B7+LLM+Inference+%C2%B7+High-Performance+ML;PyTorch+%C2%B7+Rust+%C2%B7+Triton+%C2%B7+CUDA" />
 
 <br/>
 
-![Mathematics & Computing](https://img.shields.io/badge/B.Tech-Mathematics_%26_Computing-9b4dca?style=flat-square)
-![RGIPT](https://img.shields.io/badge/RGIPT-Amethi-9b4dca?style=flat-square)
-![Physics-Informed ML](https://img.shields.io/badge/Physics--Informed-ML-9b4dca?style=flat-square)
+<a href="https://www.rgipt.ac.in/">
+<img src="https://img.shields.io/badge/B.Tech-Mathematics_%26_Computing-9b4dca?style=flat-square"/>
+</a>
+
+<img src="https://img.shields.io/badge/RGIPT-Amethi-9b4dca?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Focus-Scientific_ML_%26_Systems-9b4dca?style=flat-square"/>
 
 </div>
 
@@ -24,99 +30,84 @@
 <div align="center">
 
 <pre>
-                 /\_/\
-                ( o.o )
-                 > ^ <
+    ╭──────────────────────────────────────────────────────╮
+    │                                                      │
+    │              AYUSH.PY / SYSTEM INITIALIZED           │
+    │                                                      │
+    │   DOMAIN     Mathematics + Machine Learning          │
+    │   RESEARCH   Scientific ML / Physical Systems        │
+    │   SYSTEMS    Rust / GPU Computing / Inference        │
+    │                                                      │
+    │   STATUS     building things that probably           │
+    │              should have been optimized yesterday    │
+    │                                                      │
+    ╰──────────────────────────────────────────────────────╯
 
-        ┌──────────────────────────────────────┐
-        │  AYUSH PANDEY                        │
-        │  Mathematics & Computing @ RGIPT     │
-        ├──────────────────────────────────────┤
-        │  RESEARCHING                         │
-        │  • Physics-Informed ML               │
-        │  • Probabilistic Computing           │
-        │  • AI for Physical Systems           │
-        │                                      │
-        │  BUILDING                            │
-        │  • Neural Networks                   │
-        │  • ML Systems                        │
-        │  • LLM Inference Pipelines           │
-        │                                      │
-        │  STACK                               │
-        │  Python • PyTorch • Rust • C/C++     │
-        │  Triton • CUDA • Scientific ML       │
-        └──────────────────────────────────────┘
+                     /\_/\
+                    ( o.o )
+                     > ^ <
 
-              >_ making GPUs suffer
 </pre>
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About
 
-I'm a **B.Tech student in Mathematics and Computing at RGIPT**, interested in building machine learning systems at the intersection of **mathematics, physics, deep learning, and high-performance computing**.
+I'm a B.Tech student in **Mathematics and Computing at RGIPT**, working across machine learning, scientific computing, probabilistic systems, and performance-oriented software.
 
-My interests currently revolve around:
+My work usually sits somewhere between:
 
-- 🔬 **Physics-Informed Machine Learning & Scientific ML**
-- ⚛️ **Machine Learning for Physical and Quantum Systems**
-- 🎲 **Probabilistic Computing & Energy-Based Models**
-- 🧠 **Deep Learning, Neural Networks & Representation Learning**
-- 🤖 **LLMs, Inference & Model Optimization**
-- ⚡ **GPU Programming with Triton & CUDA**
-- 🦀 **Systems Programming & ML Framework Development in Rust**
+**mathematical modelling → neural networks → systems engineering → making it faster**
 
-I enjoy going from an idea on paper to a working system:
+Current areas of interest:
 
-<div align="center">
+- Physics-Informed and Scientific Machine Learning
+- Machine Learning for Physical and Quantum Systems
+- Probabilistic Computing and Energy-Based Models
+- Deep Learning and Representation Learning
+- LLM Inference and Optimization
+- GPU Programming with Triton and CUDA
+- Systems Programming with Rust
+- High-Performance ML Infrastructure
 
-Mathematical Idea  
-↓  
-Machine Learning Model  
-↓  
-Efficient Implementation  
-↓  
-GPU Kernel  
-↓  
-**why is CUDA yelling at me?**
+I like understanding the entire stack instead of stopping at:
 
-</div>
+`model.fit()`
 
 ---
 
-# 🔬 Current Work
+## Current Work
 
 <table>
-
 <tr>
 
 <td width="50%" valign="top">
 
-### 🔬 Physics-Guided Machine Learning Research
+### Physics-Guided Machine Learning Research
 
 **Quantum Materials Lab · RGIPT**
 
-Working on a research problem at the intersection of **machine learning, physics, and materials systems**.
+Working on a machine learning problem involving physical systems, structured scientific representations, and optimization.
 
-The work focuses on using structured scientific representations and physics-guided learning to tackle a computationally challenging problem.
+The work combines deep learning with domain-specific physical constraints to tackle a computationally difficult problem.
 
-📝 **Research manuscript submitted to a leading journal.**
+**Status:** Research manuscript submitted to a leading international journal.
 
-Due to ongoing submission and review, technical details are currently under wraps.
+Technical details are currently under wraps.
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧮 Quantum + PINN Research
+### Quantum Computing and Scientific ML
 
 **Qinetic Research Lab**
 
-Exploring machine learning approaches for problems involving **quantum computing and physical systems**.
+Exploring machine learning approaches for quantum and physical systems.
 
-Current areas include:
+Current directions include:
 
 - Physics-Informed Neural Networks
 - Scientific Machine Learning
@@ -131,46 +122,43 @@ Current areas include:
 
 <td width="50%" valign="top">
 
-### 🏙️ AI for Urban Systems
+### AI for Urban Systems
 
 **Digitwin Technologies**
 
-Working on AI and data science applications related to **urban development and planning**.
+Working on AI and data science applications involving urban systems and planning.
 
-Interested in using machine learning for:
+Areas include:
 
-- Prediction
-- Modelling
-- Data-driven planning
-- Large-scale real-world systems
+- Predictive modelling
+- Data-driven systems
+- Spatial and urban intelligence
+- Applied machine learning
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🛰️ SatFetch
+### SatFetch
 
 **ISRO Bharatiya Antariksh Hackathon 2026**
 
-Building a system addressing the **spectral domain gap in Earth observation datasets**.
+A geospatial retrieval system addressing spectral domain gaps in Earth observation datasets.
 
-Exploring:
+Stack includes:
 
-- Vision Transformers
-- Cross-domain representation learning
-- Zero-shot modality adaptation
-- Vector search
-- Geospatial retrieval
+`SatCLIP` · `ViT-L/14` · `FAISS` · `Uber H3`
+
+The project explores cross-domain representations, modality adaptation, vector search, and geospatial indexing.
 
 </td>
 
 </tr>
-
 </table>
 
 ---
 
-# 🚀 Selected Projects
+## Selected Projects
 
 <table>
 
@@ -178,62 +166,43 @@ Exploring:
 
 <td width="50%" valign="top">
 
-### 🎲 P-bit Simulator
+### P-bit Simulator
 
-A PyTorch-based framework for experimenting with **probabilistic bits and probabilistic computing**.
+A PyTorch-based framework for experimenting with probabilistic bits and stochastic computing.
 
 Explores:
 
-- Ising Models
-- Boltzmann Machines
-- Thermal Fluctuations
-- Energy Landscapes
-- Stochastic Optimization
+- Ising systems
+- Boltzmann machines
+- Thermal fluctuations
+- Energy landscapes
+- Stochastic optimization
 - MAXCUT
 
-🔗 [View Repository](https://github.com/TheOrganic-code/P-bit-Simulator)
+<a href="https://github.com/TheOrganic-code/P-bit-Simulator">
+Repository →
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🦀 Rust ML Framework
+### Rust Neural Network Framework
 
-Building a machine learning framework in **Rust**.
+A machine learning framework being built from the ground up in Rust.
 
-Exploring:
+Current exploration includes:
 
 - Tensor operations
 - Automatic differentiation
 - Computational graphs
 - Neural network primitives
-- Performance-oriented design
+- Memory-aware implementation
+- Performance-oriented architecture
 
-The goal is to better understand the machinery underneath high-level ML frameworks.
+The goal is simple:
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🪐 Habitability Predictor
-
-Machine learning system for predicting the potential **habitability of exoplanets**.
-
-Combines scientific datasets with supervised learning pipelines to estimate habitability-related characteristics.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 Brain Tumor Classifier
-
-Deep learning and computer vision project for **brain tumor classification**.
-
-Explores CNN architectures, image preprocessing, training pipelines, and model evaluation.
+Understand what actually happens below the abstraction layer.
 
 </td>
 
@@ -243,38 +212,103 @@ Explores CNN architectures, image preprocessing, training pipelines, and model e
 
 <td width="50%" valign="top">
 
-### 🛰️ SatFetch
+### B+ Tree — Rust
 
-Geospatial retrieval system for Earth observation datasets.
+A systems-oriented implementation of a **B+ Tree in Rust**, focused on understanding storage structures, ordered indexing, and efficient data access.
+
+Core areas explored:
+
+- Generic data structures
+- Tree balancing
+- Node splitting and merging
+- Ordered traversal
+- Search complexity
+- Memory-safe systems design
+
+A low-level project built to go beyond textbook implementations and actually understand how indexing structures behave in real systems.
+
+</td>
+
+<td width="50%" valign="top">
+
+### SecureFlow
+
+A security-focused project exploring safer application and system workflows.
+
+Built around the idea that security should be integrated into the pipeline rather than added as an afterthought.
+
+Focus areas include:
+
+- Secure system design
+- Workflow validation
+- Application security concepts
+- Safer development pipelines
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### Habitability Predictor
+
+Machine learning system for predicting potential habitability characteristics of exoplanets.
+
+Combines scientific datasets with supervised machine learning to explore relationships between planetary features and habitability indicators.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Brain Tumor Classifier
+
+Deep learning and computer vision project for brain tumor classification.
+
+Explores:
+
+- CNN architectures
+- Image preprocessing
+- Training pipelines
+- Model evaluation
+- Interpretable AI techniques
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### SatFetch
+
+Geospatial retrieval pipeline for Earth observation datasets.
 
 Pipeline:
 
 Satellite Data  
 ↓  
-SatCLIP / Vision Representation  
+Vision Representation  
 ↓  
 Modality Adaptation  
 ↓  
-FAISS Vector Search  
+FAISS Vector Index  
 ↓  
-H3 Geospatial Retrieval
+H3 Spatial Retrieval
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🔬 Research Project
+### Research Project
 
-A physics-guided machine learning project currently under submission.
+A physics-guided machine learning project combining scientific representations, deep learning, physical constraints, and optimization.
 
-The project combines:
+The associated manuscript has been submitted for publication.
 
-- Scientific representations
-- Deep learning
-- Physics-inspired constraints
-- Optimization
-
-**Details will be released after publication.**
+Further details will be released following the publication process.
 
 </td>
 
@@ -284,123 +318,135 @@ The project combines:
 
 ---
 
-# 🧪 Research Interests
+## Research and Engineering Interests
 
-<div align="center">
+<table>
+<tr>
+<th>Area</th>
+<th>Current Interests</th>
+</tr>
 
-| Area | Interests |
-|---|---|
-| ⚛️ Scientific ML | PINNs, Neural Operators, Scientific Computing |
-| 🎲 Probabilistic Computing | P-bits, Ising Systems, Boltzmann Machines |
-| 🧠 Deep Learning | Neural Networks, Computer Vision, Representation Learning |
-| 🤖 LLM Systems | Inference, Optimization, Serving, Harness Engineering |
-| ⚡ GPU Computing | Triton, CUDA, Kernels, Performance Optimization |
-| 🦀 Systems ML | Rust, Tensor Libraries, ML Frameworks |
-| 📐 Mathematical ML | Linear Algebra, Probability, Optimization, Differential Equations |
+<tr>
+<td>Scientific ML</td>
+<td>PINNs, neural operators, scientific computing, physics-guided learning</td>
+</tr>
 
-</div>
+<tr>
+<td>Probabilistic Computing</td>
+<td>P-bits, Ising systems, Boltzmann machines, stochastic optimization</td>
+</tr>
 
----
+<tr>
+<td>Deep Learning</td>
+<td>Neural networks, representation learning, computer vision</td>
+</tr>
 
-# ⚙️ Tech Stack
+<tr>
+<td>LLM Systems</td>
+<td>Inference, optimization, serving, harness engineering</td>
+</tr>
 
-<div align="center">
+<tr>
+<td>GPU Computing</td>
+<td>Triton, CUDA, custom kernels, performance optimization</td>
+</tr>
 
-### Languages
+<tr>
+<td>Systems ML</td>
+<td>Rust, tensor libraries, memory management, ML infrastructure</td>
+</tr>
 
-![Python](https://img.shields.io/badge/Python-9b4dca?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-9b4dca?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/C-9b4dca?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-9b4dca?style=for-the-badge&logo=cplusplus&logoColor=white)
+<tr>
+<td>Mathematics</td>
+<td>Linear algebra, probability, stochastic processes, optimization, differential equations</td>
+</tr>
 
-<br/>
-
-### Machine Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-9b4dca?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-9b4dca?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-9b4dca?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-9b4dca?style=for-the-badge&logo=scipy&logoColor=white)
-
-<br/>
-
-### Systems & Performance
-
-![Triton](https://img.shields.io/badge/Triton-9b4dca?style=for-the-badge)
-![CUDA](https://img.shields.io/badge/CUDA-9b4dca?style=for-the-badge&logo=nvidia&logoColor=white)
-![Git](https://img.shields.io/badge/Git-9b4dca?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+</table>
 
 ---
 
-# 📊 GitHub Activity
+## Technical Stack
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheOrganic-code&bg_color=0d1117&color=9b4dca&line=9b4dca&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://skillicons.dev/icons?i=python,rust,c,cpp,pytorch,sklearn,numpy,scipy,git,linux&theme=dark" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=TheOrganic-code&theme=transparent&hide_border=true&background=0D1117&stroke=9B4DCA&ring=9B4DCA&fire=9B4DCA&currStreakLabel=9B4DCA" />
+<img src="https://img.shields.io/badge/Triton-9b4dca?style=flat-square"/>
+<img src="https://img.shields.io/badge/CUDA-9b4dca?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-9b4dca?style=flat-square"/>
+<img src="https://img.shields.io/badge/pymatgen-9b4dca?style=flat-square"/>
+<img src="https://img.shields.io/badge/MATLAB-9b4dca?style=flat-square"/>
 
 </div>
 
 ---
 
-# 🖥️ Current System Status
+## GitHub Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/9b4dca/TheOrganic-code" alt="Ayush's GitHub Contribution Chart" />
+
+</div>
+
+<div align="center">
+
+<sub>
+A year of commits, experiments, abandoned branches, questionable refactors, and occasional working code.
+</sub>
+
+</div>
+
+---
+
+## Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=TheOrganic-code&theme=transparent&hide_border=true&background=0D1117&stroke=9B4DCA&ring=9B4DCA&fire=9B4DCA&currStreakLabel=9B4DCA" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=TheOrganic-code&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9B4DCA&text_color=C9D1D9&icon_color=9B4DCA" />
+
+</div>
+
+---
+
+## System Status
 
 <div align="center">
 
 <pre>
-┌────────────────────────────────────────────────────────────┐
-│ SYSTEM STATUS                                              │
-├────────────────────────────────────────────────────────────┤
-│                                                            │
-│ Python        ████████████████████   ML / Research         │
-│ PyTorch       ████████████████████   Deep Learning         │
-│ Mathematics   ████████████████████   Continuous            │
-│ Physics       ████████████████       Research              │
-│ Rust          ████████████           Building              │
-│ Triton        █████████              Learning              │
-│ CUDA          ██████                 Loading...            │
-│                                                            │
-├────────────────────────────────────────────────────────────┤
-│ CURRENT PROCESS                                            │
-│                                                            │
-│ learn() → build() → break_things() → optimize()           │
-│                                                            │
-│ STATUS: still debugging                                   │
-└────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│ AYUSH.OS                                                     │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│ Runtime         Python / Rust                                │
+│ Compute         PyTorch / Triton / CUDA                      │
+│ Research        Scientific ML / Physical Systems             │
+│ Current Mode    building + learning                          │
+│                                                              │
+│ Processes                                                   │
+│                                                              │
+│ [RUNNING]       research()                                   │
+│ [RUNNING]       build_systems()                              │
+│ [RUNNING]       optimize_everything()                        │
+│ [RUNNING]       break_things()                               │
+│ [RETRYING]      fix_cuda_error()                             │
+│                                                              │
+│ Uptime          probably not enough sleep                    │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
 </pre>
 
 </div>
 
 ---
 
-# 🧬 Research Profiles
-
-<div align="center">
-
-<!-- Replace YOUR_ORCID_ID with your actual ORCID -->
-
-<a href="https://orcid.org/YOUR_ORCID_ID">
-<img src="https://img.shields.io/badge/ORCID-9b4dca?style=for-the-badge&logo=orcid&logoColor=white"/>
-</a>
-
-<a href="https://huggingface.co/TheOrganic-code">
-<img src="https://img.shields.io/badge/HuggingFace-TheOrganic--code-9b4dca?style=for-the-badge&logo=huggingface&logoColor=white"/>
-</a>
-
-<a href="https://github.com/TheOrganic-code">
-<img src="https://img.shields.io/badge/GitHub-TheOrganic--code-9b4dca?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 🌐 Connect
+## Profiles
 
 <div align="center">
 
@@ -416,11 +462,15 @@ The project combines:
 <img src="https://img.shields.io/badge/HuggingFace-TheOrganic--code-9b4dca?style=for-the-badge&logo=huggingface&logoColor=white"/>
 </a>
 
+<a href="https://orcid.org/YOUR_ORCID_ID">
+<img src="https://img.shields.io/badge/ORCID-9b4dca?style=for-the-badge&logo=orcid&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-# 📄 Resume
+## Resume
 
 <div align="center">
 
@@ -436,21 +486,25 @@ The project combines:
 
 <div align="center">
 
-## 📫 Reach Me
+### Contact
 
-**25mc3016@rgipt.ac.in**
+<a href="mailto:25mc3016@rgipt.ac.in">
+25mc3016@rgipt.ac.in
+</a>
 
-<br/>
+<br/><br/>
 
 <pre>
 while (alive) {
     learn();
     build();
-    break_things();
+    question_abstractions();
     optimize();
 }
 </pre>
 
-⭐ If you're working on something interesting in **ML, scientific computing, AI systems, or probabilistic computing**, feel free to reach out.
+<sub>
+Interested in scientific machine learning, systems, probabilistic computing, and problems that require both mathematics and actual engineering.
+</sub>
 
 </div>
