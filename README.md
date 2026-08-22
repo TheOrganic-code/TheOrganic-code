@@ -1,118 +1,178 @@
-<!-- ============================================================ -->
-<!--                    AYUSH PANDEY                              -->
-<!--          ML · SCIENTIFIC COMPUTING · SYSTEMS                 -->
-<!-- ============================================================ -->
+<!-- ========================================================================== -->
+<!--                         AYUSH PANDEY // README                             -->
+<!-- ========================================================================== -->
 
 <div align="center">
 
-<h1>Ayush Pandey</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=AYUSH%20PANDEY&fontSize=62&fontAlignY=38&animation=fadeIn&fontColor=ffffff&color=gradient&customColorList=12,18,24"/>
 
-<p>
-  Mathematics · Machine Learning · Scientific Computing · Systems
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1200&color=9B4DCA&center=true&vCenter=true&width=900&lines=Physics-Informed+Machine+Learning;Probabilistic+Computing+and+Energy-Based+Models;Deep+Learning+%C2%B7+LLM+Inference+%C2%B7+High-Performance+ML;PyTorch+%C2%B7+Rust+%C2%B7+Triton+%C2%B7+CUDA" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=700&color=B983FF&center=true&vCenter=true&width=900&height=55&lines=%24+whoami;Mathematics+%C3%97+Machine+Learning+%C3%97+Systems;Physics-Informed+ML+%7C+Probabilistic+Computing;Deep+Learning+%7C+LLM+Inference+%7C+GPU+Optimization;Python+%C2%B7+Rust+%C2%B7+PyTorch+%C2%B7+Triton+%C2%B7+CUDA"/>
 
 <br/>
 
 <a href="https://www.rgipt.ac.in/">
-<img src="https://img.shields.io/badge/B.Tech-Mathematics_%26_Computing-9b4dca?style=flat-square"/>
+<img src="https://img.shields.io/badge/RGIPT-Mathematics_%26_Computing-8B5CF6?style=flat-square&labelColor=0D1117"/>
 </a>
 
-<img src="https://img.shields.io/badge/RGIPT-Amethi-9b4dca?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Scientific_ML_%2B_Systems-C084FC?style=flat-square&labelColor=0D1117"/>
 
-<img src="https://img.shields.io/badge/Focus-Scientific_ML_%26_Systems-9b4dca?style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=TheOrganic-code&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<svg width="800" height="140" viewBox="0 0 800 140" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+<linearGradient id="g" x1="0" x2="1">
+<stop offset="0%" stop-color="#8B5CF6"/>
+<stop offset="50%" stop-color="#EC4899"/>
+<stop offset="100%" stop-color="#22D3EE"/>
+</linearGradient>
+</defs>
+
+<circle cx="120" cy="70" r="8" fill="#8B5CF6">
+<animate attributeName="r" values="6;11;6" dur="2s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="300" cy="35" r="8" fill="#EC4899">
+<animate attributeName="r" values="6;11;6" dur="2.4s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="470" cy="105" r="8" fill="#22D3EE">
+<animate attributeName="r" values="6;11;6" dur="1.8s" repeatCount="indefinite"/>
+</circle>
+
+<circle cx="650" cy="55" r="8" fill="#A78BFA">
+<animate attributeName="r" values="6;11;6" dur="2.2s" repeatCount="indefinite"/>
+</circle>
+
+<path d="M120 70 L300 35 L470 105 L650 55"
+stroke="url(#g)"
+stroke-width="2"
+fill="none"
+stroke-dasharray="8 8">
+
+<animate attributeName="stroke-dashoffset"
+values="0;-32"
+dur="1.5s"
+repeatCount="indefinite"/>
+
+</path>
+
+<text x="400" y="135"
+text-anchor="middle"
+fill="#8B5CF6"
+font-family="monospace"
+font-size="12">
+
+RESEARCH · MODELS · SYSTEMS · COMPUTE
+
+</text>
+
+</svg>
 
 </div>
 
 ---
+
+## ~/about
 
 <div align="center">
 
 <pre>
-    ╭──────────────────────────────────────────────────────╮
-    │                                                      │
-    │              AYUSH.PY / SYSTEM INITIALIZED           │
-    │                                                      │
-    │   DOMAIN     Mathematics + Machine Learning          │
-    │   RESEARCH   Scientific ML / Physical Systems        │
-    │   SYSTEMS    Rust / GPU Computing / Inference        │
-    │                                                      │
-    │   STATUS     building things that probably           │
-    │              should have been optimized yesterday    │
-    │                                                      │
-    ╰──────────────────────────────────────────────────────╯
+$ cat profile.txt
 
-                     /\_/\
-                    ( o.o )
-                     > ^ <
+name        : Ayush Pandey
+education   : B.Tech, Mathematics & Computing @ RGIPT
+domain      : Machine Learning · Scientific Computing · Systems
+interests   : scientific ML, probabilistic computing, deep learning,
+              LLM inference, GPU optimization, systems programming
 
+philosophy  : understand the abstraction, then go underneath it.
+
+status      : building.
 </pre>
 
 </div>
 
----
+I'm a Mathematics and Computing student at RGIPT working at the intersection of machine learning, scientific computing, probabilistic systems, and performance-oriented software.
 
-## About
+My work usually follows a suspicious pipeline:
 
-I'm a B.Tech student in **Mathematics and Computing at RGIPT**, working across machine learning, scientific computing, probabilistic systems, and performance-oriented software.
+<div align="center">
 
-My work usually sits somewhere between:
+<pre>
+MATHEMATICAL IDEA
+        │
+        ▼
+   NEURAL MODEL
+        │
+        ▼
+SYSTEM IMPLEMENTATION
+        │
+        ▼
+ GPU OPTIMIZATION
+        │
+        ▼
+"WHY IS THIS SEGFAULTING?"
+</pre>
 
-**mathematical modelling → neural networks → systems engineering → making it faster**
+</div>
 
-Current areas of interest:
+Current interests include:
 
 - Physics-Informed and Scientific Machine Learning
 - Machine Learning for Physical and Quantum Systems
 - Probabilistic Computing and Energy-Based Models
 - Deep Learning and Representation Learning
-- LLM Inference and Optimization
+- LLM Inference and Model Optimization
 - GPU Programming with Triton and CUDA
-- Systems Programming with Rust
-- High-Performance ML Infrastructure
-
-I like understanding the entire stack instead of stopping at:
-
-`model.fit()`
+- Systems Programming and Machine Learning Infrastructure
+- Rust and performance-oriented software
 
 ---
 
-## Current Work
+## ~/current_work
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### Physics-Guided Machine Learning Research
+### 01 — PHYSICS-GUIDED ML
 
 **Quantum Materials Lab · RGIPT**
 
-Working on a machine learning problem involving physical systems, structured scientific representations, and optimization.
+Working on a machine learning problem involving structured scientific representations, physical constraints, and optimization.
 
-The work combines deep learning with domain-specific physical constraints to tackle a computationally difficult problem.
+The associated research manuscript has been submitted to a leading international journal.
 
-**Status:** Research manuscript submitted to a leading international journal.
-
-Technical details are currently under wraps.
+<pre>
+STATUS : DETAILS_LOCKED
+MODE   : RESEARCH
+ACCESS : RESTRICTED
+</pre>
 
 </td>
 
 <td width="50%" valign="top">
 
-### Quantum Computing and Scientific ML
+### 02 — QUANTUM + SCIENTIFIC ML
 
 **Qinetic Research Lab**
 
 Exploring machine learning approaches for quantum and physical systems.
 
-Current directions include:
-
-- Physics-Informed Neural Networks
-- Scientific Machine Learning
-- Physics-guided optimization
-- Neural representations of physical systems
+<pre>
+PINNs
+Scientific ML
+Physics-guided optimization
+Neural representations
+</pre>
 
 </td>
 
@@ -122,34 +182,35 @@ Current directions include:
 
 <td width="50%" valign="top">
 
-### AI for Urban Systems
+### 03 — URBAN AI
 
 **Digitwin Technologies**
 
-Working on AI and data science applications involving urban systems and planning.
+Working on AI and data-driven systems for urban development and planning.
 
-Areas include:
-
-- Predictive modelling
-- Data-driven systems
-- Spatial and urban intelligence
-- Applied machine learning
+<pre>
+Predictive modelling
+Urban intelligence
+Data-driven systems
+Applied ML
+</pre>
 
 </td>
 
 <td width="50%" valign="top">
 
-### SatFetch
+### 04 — SATFETCH
 
 **ISRO Bharatiya Antariksh Hackathon 2026**
 
-A geospatial retrieval system addressing spectral domain gaps in Earth observation datasets.
+Earth observation retrieval across spectral and modality gaps.
 
-Stack includes:
-
-`SatCLIP` · `ViT-L/14` · `FAISS` · `Uber H3`
-
-The project explores cross-domain representations, modality adaptation, vector search, and geospatial indexing.
+<pre>
+SatCLIP
+ViT-L/14
+FAISS
+Uber H3
+</pre>
 
 </td>
 
@@ -158,7 +219,13 @@ The project explores cross-domain representations, modality adaptation, vector s
 
 ---
 
-## Selected Projects
+## ~/projects
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=900&color=22D3EE&center=true&vCenter=true&width=850&height=35&lines=SELECT+*+FROM+projects+ORDER+BY+complexity+DESC%3B;loading+an+unhealthy+amount+of+side+projects...;some+finished.+some+experimental.+some+probably+shouldnt+work."/>
+
+</div>
 
 <table>
 
@@ -166,83 +233,45 @@ The project explores cross-domain representations, modality adaptation, vector s
 
 <td width="50%" valign="top">
 
-### P-bit Simulator
+### P-BIT_SIMULATOR
 
 A PyTorch-based framework for experimenting with probabilistic bits and stochastic computing.
 
-Explores:
-
-- Ising systems
-- Boltzmann machines
-- Thermal fluctuations
-- Energy landscapes
-- Stochastic optimization
-- MAXCUT
+<pre>
+ISING SYSTEMS
+BOLTZMANN MACHINES
+THERMAL FLUCTUATIONS
+ENERGY LANDSCAPES
+STOCHASTIC OPTIMIZATION
+MAXCUT
+</pre>
 
 <a href="https://github.com/TheOrganic-code/P-bit-Simulator">
-Repository →
+
+[ OPEN_REPOSITORY ]
+
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### Rust Neural Network Framework
+### NEURARUST
 
-A machine learning framework being built from the ground up in Rust.
+A neural network and tensor framework being built from scratch in Rust.
 
-Current exploration includes:
+<pre>
+TENSORS
+AUTODIFF
+COMPUTATIONAL GRAPHS
+NN PRIMITIVES
+MEMORY MANAGEMENT
+PERFORMANCE
+</pre>
 
-- Tensor operations
-- Automatic differentiation
-- Computational graphs
-- Neural network primitives
-- Memory-aware implementation
-- Performance-oriented architecture
+Build the machinery.
 
-The goal is simple:
-
-Understand what actually happens below the abstraction layer.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### B+ Tree — Rust
-
-A systems-oriented implementation of a **B+ Tree in Rust**, focused on understanding storage structures, ordered indexing, and efficient data access.
-
-Core areas explored:
-
-- Generic data structures
-- Tree balancing
-- Node splitting and merging
-- Ordered traversal
-- Search complexity
-- Memory-safe systems design
-
-A low-level project built to go beyond textbook implementations and actually understand how indexing structures behave in real systems.
-
-</td>
-
-<td width="50%" valign="top">
-
-### SecureFlow
-
-A security-focused project exploring safer application and system workflows.
-
-Built around the idea that security should be integrated into the pipeline rather than added as an afterthought.
-
-Focus areas include:
-
-- Secure system design
-- Workflow validation
-- Application security concepts
-- Safer development pipelines
+Understand every layer.
 
 </td>
 
@@ -252,27 +281,38 @@ Focus areas include:
 
 <td width="50%" valign="top">
 
-### Habitability Predictor
+### B+TREE_RS
 
-Machine learning system for predicting potential habitability characteristics of exoplanets.
+A B+ Tree implementation in Rust focused on understanding ordered indexing and storage structures.
 
-Combines scientific datasets with supervised machine learning to explore relationships between planetary features and habitability indicators.
+<pre>
+GENERIC TYPES
+NODE SPLITTING
+TREE REBALANCING
+ORDERED TRAVERSAL
+LOGARITHMIC SEARCH
+MEMORY-SAFE DESIGN
+</pre>
+
+Because apparently writing balanced trees for fun is a reasonable use of time.
 
 </td>
 
 <td width="50%" valign="top">
 
-### Brain Tumor Classifier
+### SECUREFLOW
 
-Deep learning and computer vision project for brain tumor classification.
+A security-oriented project exploring safer application workflows and system architecture.
 
-Explores:
+<pre>
+VALIDATION
+SECURE WORKFLOWS
+SYSTEM DESIGN
+APPLICATION SECURITY
+PIPELINE THINKING
+</pre>
 
-- CNN architectures
-- Image preprocessing
-- Training pipelines
-- Model evaluation
-- Interpretable AI techniques
+Security should be part of the architecture, not a panic-induced patch at 2 AM.
 
 </td>
 
@@ -282,33 +322,79 @@ Explores:
 
 <td width="50%" valign="top">
 
-### SatFetch
+### SATFETCH
 
 Geospatial retrieval pipeline for Earth observation datasets.
 
-Pipeline:
-
-Satellite Data  
-↓  
-Vision Representation  
-↓  
-Modality Adaptation  
-↓  
-FAISS Vector Index  
-↓  
-H3 Spatial Retrieval
+<pre>
+EARTH OBSERVATION DATA
+          │
+          ▼
+   VISION EMBEDDINGS
+          │
+          ▼
+   MODALITY ADAPTATION
+          │
+          ▼
+      FAISS INDEX
+          │
+          ▼
+   H3 SPATIAL SEARCH
+</pre>
 
 </td>
 
 <td width="50%" valign="top">
 
-### Research Project
+### HABITABILITY_PREDICTOR
 
-A physics-guided machine learning project combining scientific representations, deep learning, physical constraints, and optimization.
+Machine learning system exploring planetary features and habitability indicators.
 
-The associated manuscript has been submitted for publication.
+<pre>
+SCIENTIFIC DATA
+FEATURE ENGINEERING
+SUPERVISED LEARNING
+MODEL EVALUATION
+</pre>
 
-Further details will be released following the publication process.
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### BRAIN_TUMOR_CLASSIFIER
+
+Deep learning and computer vision pipeline.
+
+<pre>
+CNNs
+IMAGE PROCESSING
+TRAINING
+EVALUATION
+INTERPRETABILITY
+</pre>
+
+</td>
+
+<td width="50%" valign="top">
+
+### CLASSIFIED_RESEARCH
+
+Physics-guided machine learning.
+
+<pre>
+SCIENTIFIC REPRESENTATIONS
+DEEP LEARNING
+PHYSICAL CONSTRAINTS
+OPTIMIZATION
+</pre>
+
+Manuscript submitted.
+
+More information after publication.
 
 </td>
 
@@ -318,165 +404,141 @@ Further details will be released following the publication process.
 
 ---
 
-## Research and Engineering Interests
-
-<table>
-<tr>
-<th>Area</th>
-<th>Current Interests</th>
-</tr>
-
-<tr>
-<td>Scientific ML</td>
-<td>PINNs, neural operators, scientific computing, physics-guided learning</td>
-</tr>
-
-<tr>
-<td>Probabilistic Computing</td>
-<td>P-bits, Ising systems, Boltzmann machines, stochastic optimization</td>
-</tr>
-
-<tr>
-<td>Deep Learning</td>
-<td>Neural networks, representation learning, computer vision</td>
-</tr>
-
-<tr>
-<td>LLM Systems</td>
-<td>Inference, optimization, serving, harness engineering</td>
-</tr>
-
-<tr>
-<td>GPU Computing</td>
-<td>Triton, CUDA, custom kernels, performance optimization</td>
-</tr>
-
-<tr>
-<td>Systems ML</td>
-<td>Rust, tensor libraries, memory management, ML infrastructure</td>
-</tr>
-
-<tr>
-<td>Mathematics</td>
-<td>Linear algebra, probability, stochastic processes, optimization, differential equations</td>
-</tr>
-
-</table>
-
----
-
-## Technical Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,rust,c,cpp,pytorch,sklearn,numpy,scipy,git,linux&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Triton-9b4dca?style=flat-square"/>
-<img src="https://img.shields.io/badge/CUDA-9b4dca?style=flat-square"/>
-<img src="https://img.shields.io/badge/FAISS-9b4dca?style=flat-square"/>
-<img src="https://img.shields.io/badge/pymatgen-9b4dca?style=flat-square"/>
-<img src="https://img.shields.io/badge/MATLAB-9b4dca?style=flat-square"/>
-
-</div>
-
----
-
-## GitHub Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/9b4dca/TheOrganic-code" alt="Ayush's GitHub Contribution Chart" />
-
-</div>
-
-<div align="center">
-
-<sub>
-A year of commits, experiments, abandoned branches, questionable refactors, and occasional working code.
-</sub>
-
-</div>
-
----
-
-## Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=TheOrganic-code&theme=transparent&hide_border=true&background=0D1117&stroke=9B4DCA&ring=9B4DCA&fire=9B4DCA&currStreakLabel=9B4DCA" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=TheOrganic-code&show_icons=true&hide_border=true&bg_color=0D1117&title_color=9B4DCA&text_color=C9D1D9&icon_color=9B4DCA" />
-
-</div>
-
----
-
-## System Status
+## ~/research_map
 
 <div align="center">
 
 <pre>
-┌──────────────────────────────────────────────────────────────┐
-│ AYUSH.OS                                                     │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│ Runtime         Python / Rust                                │
-│ Compute         PyTorch / Triton / CUDA                      │
-│ Research        Scientific ML / Physical Systems             │
-│ Current Mode    building + learning                          │
-│                                                              │
-│ Processes                                                   │
-│                                                              │
-│ [RUNNING]       research()                                   │
-│ [RUNNING]       build_systems()                              │
-│ [RUNNING]       optimize_everything()                        │
-│ [RUNNING]       break_things()                               │
-│ [RETRYING]      fix_cuda_error()                             │
-│                                                              │
-│ Uptime          probably not enough sleep                    │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+                              ┌─────────────────┐
+                              │  MATHEMATICS    │
+                              └────────┬────────┘
+                                       │
+                     ┌─────────────────┼─────────────────┐
+                     │                 │                 │
+                     ▼                 ▼                 ▼
+              SCIENTIFIC ML      PROBABILISTIC       OPTIMIZATION
+                     │            COMPUTING              │
+                     │                 │                 │
+                     └────────┬────────┴────────┬────────┘
+                              │                 │
+                              ▼                 ▼
+                       NEURAL NETWORKS     PHYSICAL SYSTEMS
+                              │                 │
+                              └────────┬────────┘
+                                       │
+                                       ▼
+                              HIGH PERFORMANCE
+                               ML SYSTEMS
+                                       │
+                     ┌─────────────────┼─────────────────┐
+                     ▼                 ▼                 ▼
+                   RUST             TRITON              CUDA
 </pre>
 
 </div>
 
 ---
 
-## Profiles
+## ~/stack
 
 <div align="center">
 
-<a href="https://github.com/TheOrganic-code">
-<img src="https://img.shields.io/badge/GitHub-TheOrganic--code-9b4dca?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=python,rust,c,cpp,pytorch,sklearn,numpy,git,linux&theme=dark"/>
 
-<a href="https://linkedin.com/in/ayushpandey1801">
-<img src="https://img.shields.io/badge/LinkedIn-Ayush_Pandey-9b4dca?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/><br/>
 
-<a href="https://huggingface.co/TheOrganic-code">
-<img src="https://img.shields.io/badge/HuggingFace-TheOrganic--code-9b4dca?style=for-the-badge&logo=huggingface&logoColor=white"/>
-</a>
-
-<a href="https://orcid.org/YOUR_ORCID_ID">
-<img src="https://img.shields.io/badge/ORCID-9b4dca?style=for-the-badge&logo=orcid&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/TRITON-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/CUDA-EC4899?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/FAISS-22D3EE?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/PYMATGEN-A78BFA?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/SCIPY-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
 ---
 
-## Resume
+## ~/github
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=TheOrganic-code&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=C9D1D9&icon_color=22D3EE&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheOrganic-code&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=C9D1D9"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=TheOrganic-code&theme=transparent&hide_border=true&background=0D1117&stroke=8B5CF6&ring=C084FC&fire=EC4899&currStreakLabel=22D3EE"/>
+
+</div>
+
+---
+
+## ~/runtime
+
+<div align="center">
+
+<pre>
+╔════════════════════════════════════════════════════════════════════╗
+║                          AYUSH.OS                                 ║
+╠════════════════════════════════════════════════════════════════════╣
+║                                                                    ║
+║  LANGUAGE_RUNTIME       Python · Rust · C/C++                     ║
+║  ML_BACKEND             PyTorch                                   ║
+║  COMPUTE                Triton → CUDA                             ║
+║  RESEARCH_MODE          Scientific ML / Physical Systems          ║
+║                                                                    ║
+║  ────────────────────────────────────────────────────────────────  ║
+║                                                                    ║
+║  [████████████████████]  Python / ML                              ║
+║  [█████████████████   ]  Mathematics                             ║
+║  [████████████████    ]  Deep Learning                           ║
+║  [█████████████       ]  Systems Programming                     ║
+║  [██████████          ]  GPU Programming                         ║
+║                                                                    ║
+║  ACTIVE PROCESSES                                                 ║
+║                                                                    ║
+║  ● research()                                                     ║
+║  ● build_systems()                                                ║
+║  ● read_papers()                                                  ║
+║  ● optimize_everything()                                          ║
+║  ● pretend_the_bug_is_a_feature()                                 ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+</pre>
+
+</div>
+
+---
+
+## ~/links
+
+<div align="center">
+
+<a href="https://github.com/TheOrganic-code">
+<img src="https://img.shields.io/badge/GITHUB-TheOrganic--code-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+</a>
+
+<a href="https://linkedin.com/in/ayushpandey1801">
+<img src="https://img.shields.io/badge/LINKEDIN-Ayush_Pandey-C084FC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+</a>
+
+<a href="https://huggingface.co/TheOrganic-code">
+<img src="https://img.shields.io/badge/HUGGINGFACE-TheOrganic--code-22D3EE?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=0D1117"/>
+</a>
+
+<a href="https://orcid.org/YOUR_ORCID_ID">
+<img src="https://img.shields.io/badge/ORCID-YOUR_ORCID_ID-EC4899?style=for-the-badge&logo=orcid&logoColor=white&labelColor=0D1117"/>
+</a>
+
+</div>
+
+<br/>
 
 <div align="center">
 
 <a href="https://github.com/TheOrganic-code/TheOrganic-code/blob/main/Ayush_Pandey_Research_Resume.pdf">
 
-<img src="https://img.shields.io/badge/Download_Resume-9b4dca?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+<img src="https://img.shields.io/badge/DOWNLOAD-RESEARCH_RESUME-8B5CF6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=0D1117"/>
 
 </a>
 
@@ -486,11 +548,15 @@ A year of commits, experiments, abandoned branches, questionable refactors, and 
 
 <div align="center">
 
-### Contact
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,18,24"/>
 
-<a href="mailto:25mc3016@rgipt.ac.in">
-25mc3016@rgipt.ac.in
-</a>
+### 25mc3016@rgipt.ac.in
+
+<sub>
+
+Scientific machine learning · probabilistic computing · high-performance inference · systems engineering
+
+</sub>
 
 <br/><br/>
 
@@ -502,9 +568,5 @@ while (alive) {
     optimize();
 }
 </pre>
-
-<sub>
-Interested in scientific machine learning, systems, probabilistic computing, and problems that require both mathematics and actual engineering.
-</sub>
 
 </div>
