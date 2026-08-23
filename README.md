@@ -1,6 +1,4 @@
-<!-- ========================================================================== -->
-<!--                         AYUSH PANDEY // README                             -->
-<!-- ========================================================================== -->
+# AYUSH PANDEY
 
 <div align="center">
 
@@ -89,10 +87,13 @@ $ cat profile.txt
 name        : Ayush Pandey
 education   : B.Tech, Mathematics & Computing @ RGIPT
 domain      : Machine Learning · Scientific Computing · Systems
-interests   : scientific ML, probabilistic computing, deep learning,
-              LLM inference, GPU optimization, systems programming
 
-philosophy  : understand the abstraction, then go underneath it.
+interests   : scientific ML, probabilistic computing,
+              deep learning, LLM inference,
+              GPU optimization, systems programming
+
+philosophy  : understand the abstraction,
+              then go underneath it.
 
 status      : building.
 </pre>
@@ -125,53 +126,59 @@ SYSTEM IMPLEMENTATION
 
 Current interests include:
 
-- Physics-Informed and Scientific Machine Learning
-- Machine Learning for Physical and Quantum Systems
-- Probabilistic Computing and Energy-Based Models
-- Deep Learning and Representation Learning
-- LLM Inference and Model Optimization
-- GPU Programming with Triton and CUDA
-- Systems Programming and Machine Learning Infrastructure
-- Rust and performance-oriented software
+* Physics-Informed and Scientific Machine Learning
+* Machine Learning for Physical and Quantum Systems
+* Probabilistic Computing and Energy-Based Models
+* Deep Learning and Representation Learning
+* LLM Inference and Model Optimization
+* GPU Programming with Triton and CUDA
+* Systems Programming and Machine Learning Infrastructure
+* Rust and performance-oriented software
 
 ---
 
-## ~/current_work
+## ~/experience
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
 
-### 01 — PHYSICS-GUIDED ML
+### 01 — QUANTUM MATERIALS LAB
 
-**Quantum Materials Lab · RGIPT**
+**Researcher · RGIPT**
 
-Working on a machine learning problem involving structured scientific representations, physical constraints, and optimization.
+Working on machine learning methods for physical systems and structured scientific data.
 
-The associated research manuscript has been submitted to a leading international journal.
+Current research focuses on predicting favourable muon stopping sites in crystalline materials using physics-guided deep learning and optimization.
 
 <pre>
-STATUS : DETAILS_LOCKED
-MODE   : RESEARCH
-ACCESS : RESTRICTED
+SCIENTIFIC ML
+CRYSTAL STRUCTURES
+3D REPRESENTATIONS
+PHYSICS-GUIDED MODELS
+OPTIMIZATION
+
+STATUS : RESEARCH
 </pre>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 02 — QUANTUM + SCIENTIFIC ML
+### 02 — QINETIC RESEARCH LAB
 
-**Qinetic Research Lab**
+**Researcher**
 
-Exploring machine learning approaches for quantum and physical systems.
+Exploring machine learning approaches for quantum and physical systems with a focus on physics-informed learning and scientific representations.
 
 <pre>
 PINNs
-Scientific ML
-Physics-guided optimization
-Neural representations
+SCIENTIFIC ML
+PHYSICS-GUIDED OPTIMIZATION
+NEURAL REPRESENTATIONS
+QUANTUM SYSTEMS
 </pre>
 
 </td>
@@ -182,17 +189,18 @@ Neural representations
 
 <td width="50%" valign="top">
 
-### 03 — URBAN AI
+### 03 — DIGITWIN TECHNOLOGIES
 
-**Digitwin Technologies**
+**AI Engineer Intern · Data Science**
 
-Working on AI and data-driven systems for urban development and planning.
+Working on AI and data-driven systems for industrial applications.
 
 <pre>
-Predictive modelling
-Urban intelligence
-Data-driven systems
-Applied ML
+APPLIED MACHINE LEARNING
+DATA SCIENCE
+PREDICTIVE MODELLING
+INDUSTRIAL AI
+DATA-DRIVEN SYSTEMS
 </pre>
 
 </td>
@@ -203,19 +211,91 @@ Applied ML
 
 **ISRO Bharatiya Antariksh Hackathon 2026**
 
-Earth observation retrieval across spectral and modality gaps.
+Built a geospatial retrieval pipeline for Earth observation datasets across spectral and modality gaps.
 
 <pre>
-SatCLIP
+SATCLIP
 ViT-L/14
 FAISS
-Uber H3
+UBER H3
+MODALITY ADAPTATION
 </pre>
 
 </td>
 
 </tr>
+
 </table>
+
+---
+
+## ~/publications
+
+<div align="center">
+
+<pre>
+PUBLICATIONS / MANUSCRIPTS
+────────────────────────────────────────────
+</pre>
+
+</div>
+
+### 01 — UNDER REVIEW MANUSCRIPT
+
+**Contributing Author · 5th / 6th Author**
+
+Research contribution as part of a multi-author research collaboration.
+
+<pre>
+STATUS    : UNDER REVIEW
+ROLE      : CONTRIBUTING AUTHOR
+POSITION  : 5th / 6th AUTHOR
+</pre>
+
+> Publication details will be updated once the review process allows public disclosure.
+
+---
+
+### 02 — RAPID-ACC
+
+**Physics-Guided Machine Learning for Muon Site Prediction**
+
+Developed at the **Quantum Materials Lab, RGIPT**, Rapid-ACC is a physics-guided machine learning framework for predicting favourable muon stopping sites in crystalline materials.
+
+The pipeline combines structured crystal representations, physics-guided 3D deep learning, optimisation, and refinement techniques to identify energetically favourable candidate sites.
+
+<pre>
+CRYSTAL STRUCTURES
+        │
+        ▼
+SCIENTIFIC REPRESENTATION
+        │
+        ▼
+PHYSICS-GUIDED 3D MODEL
+        │
+        ▼
+CANDIDATE MUON SITES
+        │
+        ▼
+OPTIMIZATION + REFINEMENT
+</pre>
+
+<pre>
+STATUS   : SUBMITTED
+JOURNAL  : PHYSICAL REVIEW B
+TYPE     : RESEARCH MANUSCRIPT
+</pre>
+
+---
+
+<div align="center">
+
+<sub>
+some repositories are public. some papers are under review.
+some things are still cooking.
+</sub>
+
+</div>
 
 ---
 
@@ -339,7 +419,7 @@ EARTH OBSERVATION DATA
       FAISS INDEX
           │
           ▼
-   H3 SPATIAL SEARCH
+    H3 SPATIAL SEARCH
 </pre>
 
 </td>
@@ -381,20 +461,20 @@ INTERPRETABILITY
 
 <td width="50%" valign="top">
 
-### CLASSIFIED_RESEARCH
+### RAPID-ACC
 
-Physics-guided machine learning.
+Physics-guided machine learning for predicting favourable muon stopping sites in crystalline materials.
 
 <pre>
 SCIENTIFIC REPRESENTATIONS
-DEEP LEARNING
+3D DEEP LEARNING
 PHYSICAL CONSTRAINTS
 OPTIMIZATION
+SITE REFINEMENT
+
+MANUSCRIPT : SUBMITTED
+JOURNAL    : PHYSICAL REVIEW B
 </pre>
-
-Manuscript submitted.
-
-More information after publication.
 
 </td>
 
@@ -526,10 +606,6 @@ More information after publication.
 <img src="https://img.shields.io/badge/HUGGINGFACE-TheOrganic--code-22D3EE?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=0D1117"/>
 </a>
 
-<a href="https://orcid.org/YOUR_ORCID_ID">
-<img src="https://img.shields.io/badge/ORCID-YOUR_ORCID_ID-EC4899?style=for-the-badge&logo=orcid&logoColor=white&labelColor=0D1117"/>
-</a>
-
 </div>
 
 <br/>
@@ -550,7 +626,7 @@ More information after publication.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,18,24"/>
 
-### 25mc3016@rgipt.ac.in
+### [25mc3016@rgipt.ac.in](mailto:25mc3016@rgipt.ac.in)
 
 <sub>
 
