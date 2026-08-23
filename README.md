@@ -140,7 +140,6 @@ Current interests include:
 ## ~/experience
 
 <table>
-
 <tr>
 
 <td width="50%" valign="top">
@@ -207,8 +206,6 @@ DATA-DRIVEN SYSTEMS
 
 <td width="50%" valign="top">
 
-<td width="50%" valign="top">
-
 ### 04 — ICCFGC
 
 **Data Science**
@@ -224,6 +221,10 @@ RESEARCH
 </pre>
 
 </td>
+
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -243,6 +244,25 @@ STARTUP BUILDING
 
 </td>
 
+<td width="50%" valign="top">
+
+### 06 — RESEARCH & OPEN SOURCE
+
+**Independent Projects**
+
+Building systems, research prototypes, and machine learning infrastructure from scratch.
+
+<pre>
+RUST SYSTEMS
+ML INFRASTRUCTURE
+GPU COMPUTE
+SCIENTIFIC ML
+OPEN SOURCE
+</pre>
+
+</td>
+
+</tr>
 
 </table>
 
@@ -271,7 +291,7 @@ ROLE      : CONTRIBUTING AUTHOR
 POSITION  : 5th / 6th AUTHOR
 </pre>
 
-> Publication details will be updated once the review process allows public disclosure.
+> Publication details will be updated after the review process.
 
 ---
 
@@ -327,7 +347,6 @@ some things are still cooking.
 </div>
 
 <table>
-
 <tr>
 
 <td width="50%" valign="top">
@@ -421,30 +440,6 @@ Security should be part of the architecture, not a panic-induced patch at 2 AM.
 
 <td width="50%" valign="top">
 
-### SATFETCH
-
-Geospatial retrieval pipeline for Earth observation datasets.
-
-<pre>
-EARTH OBSERVATION DATA
-          │
-          ▼
-   VISION EMBEDDINGS
-          │
-          ▼
-   MODALITY ADAPTATION
-          │
-          ▼
-      FAISS INDEX
-          │
-          ▼
-    H3 SPATIAL SEARCH
-</pre>
-
-</td>
-
-<td width="50%" valign="top">
-
 ### HABITABILITY_PREDICTOR
 
 Machine learning system exploring planetary features and habitability indicators.
@@ -457,10 +452,6 @@ MODEL EVALUATION
 </pre>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%" valign="top">
 
@@ -478,6 +469,10 @@ INTERPRETABILITY
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 ### RAPID-ACC
@@ -493,6 +488,19 @@ SITE REFINEMENT
 
 MANUSCRIPT : SUBMITTED
 JOURNAL    : PHYSICAL REVIEW B
+</pre>
+
+</td>
+
+<td width="50%" valign="top">
+
+### MORE_SYSTEMS_LOADING...
+
+Research prototypes, experiments, and systems currently under construction.
+
+<pre>
+STATUS : BUILDING
+MODE   : EXPERIMENTAL
 </pre>
 
 </td>
