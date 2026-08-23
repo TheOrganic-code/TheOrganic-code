@@ -207,23 +207,42 @@ DATA-DRIVEN SYSTEMS
 
 <td width="50%" valign="top">
 
-### 04 — SATFETCH
+<td width="50%" valign="top">
 
-**ISRO Bharatiya Antariksh Hackathon 2026**
+### 04 — ICCFGC
 
-Built a geospatial retrieval pipeline for Earth observation datasets across spectral and modality gaps.
+**Data Science**
+
+Working on data-driven analysis and machine learning applications.
 
 <pre>
-SATCLIP
-ViT-L/14
-FAISS
-UBER H3
-MODALITY ADAPTATION
+DATA SCIENCE
+DATA ANALYSIS
+MACHINE LEARNING
+STATISTICAL MODELLING
+RESEARCH
 </pre>
 
 </td>
 
-</tr>
+<td width="50%" valign="top">
+
+### 05 — DRIP FEED
+
+**Founding Engineer**
+
+Building and engineering core product systems from the ground up.
+
+<pre>
+PRODUCT ENGINEERING
+SYSTEM DESIGN
+FULL-STACK DEVELOPMENT
+AI SYSTEMS
+STARTUP BUILDING
+</pre>
+
+</td>
+
 
 </table>
 
