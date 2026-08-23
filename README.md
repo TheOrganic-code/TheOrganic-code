@@ -4,16 +4,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=AYUSH%20PANDEY&fontSize=62&fontAlignY=38&animation=fadeIn&fontColor=ffffff&color=gradient&customColorList=12,18,24"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=700&color=B983FF&center=true&vCenter=true&width=900&height=55&lines=%24+whoami;Mathematics+%C3%97+Machine+Learning+%C3%97+Systems;Physics-Informed+ML+%7C+Probabilistic+Computing;Deep+Learning+%7C+LLM+Inference+%7C+GPU+Optimization;Python+%C2%B7+Rust+%C2%B7+PyTorch+%C2%B7+Triton+%C2%B7+CUDA"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=700&color=B983FF&center=true&vCenter=true&width=900&height=55&lines=%24+whoami;Mathematics+%C3%97+Machine+Learning+%C3%97+Systems;Scientific+ML+%7C+Probabilistic+Computing+%7C+AI+Systems;LLM+Engineering+%7C+GPU+Optimization+%7C+Research;Python+%C2%B7+Rust+%C2%B7+PyTorch+%C2%B7+Triton+%C2%B7+CUDA"/>
 
 <br/>
 
-<a href="https://www.rgipt.ac.in/">
 <img src="https://img.shields.io/badge/RGIPT-Mathematics_%26_Computing-8B5CF6?style=flat-square&labelColor=0D1117"/>
-</a>
-
-<img src="https://img.shields.io/badge/Focus-Scientific_ML_%2B_Systems-C084FC?style=flat-square&labelColor=0D1117"/>
-
+<img src="https://img.shields.io/badge/CPI-8.68-C084FC?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Focus-ML_%2B_Systems_%2B_Research-22D3EE?style=flat-square&labelColor=0D1117"/>
 <img src="https://komarev.com/ghpvc/?username=TheOrganic-code&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS"/>
 
 </div>
@@ -22,56 +19,13 @@
 
 <div align="center">
 
-<svg width="800" height="140" viewBox="0 0 800 140" xmlns="http://www.w3.org/2000/svg">
-
-<defs>
-<linearGradient id="g" x1="0" x2="1">
-<stop offset="0%" stop-color="#8B5CF6"/>
-<stop offset="50%" stop-color="#EC4899"/>
-<stop offset="100%" stop-color="#22D3EE"/>
-</linearGradient>
-</defs>
-
-<circle cx="120" cy="70" r="8" fill="#8B5CF6">
-<animate attributeName="r" values="6;11;6" dur="2s" repeatCount="indefinite"/>
-</circle>
-
-<circle cx="300" cy="35" r="8" fill="#EC4899">
-<animate attributeName="r" values="6;11;6" dur="2.4s" repeatCount="indefinite"/>
-</circle>
-
-<circle cx="470" cy="105" r="8" fill="#22D3EE">
-<animate attributeName="r" values="6;11;6" dur="1.8s" repeatCount="indefinite"/>
-</circle>
-
-<circle cx="650" cy="55" r="8" fill="#A78BFA">
-<animate attributeName="r" values="6;11;6" dur="2.2s" repeatCount="indefinite"/>
-</circle>
-
-<path d="M120 70 L300 35 L470 105 L650 55"
-stroke="url(#g)"
-stroke-width="2"
-fill="none"
-stroke-dasharray="8 8">
-
-<animate attributeName="stroke-dashoffset"
-values="0;-32"
-dur="1.5s"
-repeatCount="indefinite"/>
-
-</path>
-
-<text x="400" y="135"
-text-anchor="middle"
-fill="#8B5CF6"
-font-family="monospace"
-font-size="12">
-
-RESEARCH · MODELS · SYSTEMS · COMPUTE
-
-</text>
-
-</svg>
+<pre>
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│             RESEARCH · MODELS · SYSTEMS · COMPUTE            │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+</pre>
 
 </div>
 
@@ -86,10 +40,11 @@ $ cat profile.txt
 
 name        : Ayush Pandey
 education   : B.Tech, Mathematics & Computing @ RGIPT
+academic    : CPI 8.68
 domain      : Machine Learning · Scientific Computing · Systems
 
 interests   : scientific ML, probabilistic computing,
-              deep learning, LLM inference,
+              deep learning, LLM systems,
               GPU optimization, systems programming
 
 philosophy  : understand the abstraction,
@@ -100,9 +55,9 @@ status      : building.
 
 </div>
 
-I'm a Mathematics and Computing student at RGIPT working at the intersection of machine learning, scientific computing, probabilistic systems, and performance-oriented software.
+I'm a Mathematics and Computing student at RGIPT working across machine learning, scientific computing, AI systems, probabilistic computing, and performance-oriented software.
 
-My work usually follows a suspicious pipeline:
+I like taking an idea from:
 
 <div align="center">
 
@@ -119,20 +74,20 @@ SYSTEM IMPLEMENTATION
  GPU OPTIMIZATION
         │
         ▼
-"WHY IS THIS SEGFAULTING?"
+DEPLOY / BREAK / REPEAT
 </pre>
 
 </div>
 
-Current interests include:
+Current interests:
 
-* Physics-Informed and Scientific Machine Learning
+* Scientific and Physics-Informed Machine Learning
 * Machine Learning for Physical and Quantum Systems
 * Probabilistic Computing and Energy-Based Models
 * Deep Learning and Representation Learning
-* LLM Inference and Model Optimization
+* LLM Fine-Tuning, RAG and Inference
 * GPU Programming with Triton and CUDA
-* Systems Programming and Machine Learning Infrastructure
+* Systems Programming and ML Infrastructure
 * Rust and performance-oriented software
 
 ---
@@ -146,20 +101,18 @@ Current interests include:
 
 ### 01 — QUANTUM MATERIALS LAB
 
-**Researcher · RGIPT**
+**Undergraduate Researcher · RGIPT**
 
-Working on machine learning methods for physical systems and structured scientific data.
+Research in computational physics and machine learning for materials-related problems.
 
-Current research focuses on predicting favourable muon stopping sites in crystalline materials using physics-guided deep learning and optimization.
+Working with scientific computing, PyTorch, Pymatgen, and physics-guided learning methods.
 
 <pre>
 SCIENTIFIC ML
-CRYSTAL STRUCTURES
-3D REPRESENTATIONS
-PHYSICS-GUIDED MODELS
-OPTIMIZATION
-
-STATUS : RESEARCH
+COMPUTATIONAL PHYSICS
+PYTORCH
+PYMATGEN
+PHYSICS-GUIDED LEARNING
 </pre>
 
 </td>
@@ -168,16 +121,16 @@ STATUS : RESEARCH
 
 ### 02 — QINETIC RESEARCH LAB
 
-**Researcher**
+**Researcher · Remote**
 
-Exploring machine learning approaches for quantum and physical systems with a focus on physics-informed learning and scientific representations.
+Working on quantum computing problems and exploring physics-informed machine learning strategies.
 
 <pre>
+QUANTUM COMPUTING
 PINNs
 SCIENTIFIC ML
-PHYSICS-GUIDED OPTIMIZATION
 NEURAL REPRESENTATIONS
-QUANTUM SYSTEMS
+COMPUTATIONAL RESEARCH
 </pre>
 
 </td>
@@ -190,16 +143,18 @@ QUANTUM SYSTEMS
 
 ### 03 — DIGITWIN TECHNOLOGIES
 
-**AI Engineer Intern · Data Science**
+**AI Engineer Intern**
 
-Working on AI and data-driven systems for industrial applications.
+Worked on applied AI systems for industrial use cases.
+
+Fine-tuned language models on domain-specific datasets and built RAG pipelines for grounded retrieval over proprietary knowledge bases.
 
 <pre>
-APPLIED MACHINE LEARNING
-DATA SCIENCE
-PREDICTIVE MODELLING
+LLM FINE-TUNING
+LoRA / QLoRA
+RAG PIPELINES
 INDUSTRIAL AI
-DATA-DRIVEN SYSTEMS
+APPLIED ML SYSTEMS
 </pre>
 
 </td>
@@ -210,7 +165,7 @@ DATA-DRIVEN SYSTEMS
 
 **Data Science**
 
-Working on data-driven analysis and machine learning applications.
+Working on data-driven analysis, machine learning, and research-oriented applications.
 
 <pre>
 DATA SCIENCE
@@ -232,13 +187,13 @@ RESEARCH
 
 **Founding Engineer**
 
-Building and engineering core product systems from the ground up.
+Building core product and engineering systems from the ground up.
 
 <pre>
 PRODUCT ENGINEERING
 SYSTEM DESIGN
-FULL-STACK DEVELOPMENT
 AI SYSTEMS
+FULL-STACK DEVELOPMENT
 STARTUP BUILDING
 </pre>
 
@@ -246,11 +201,11 @@ STARTUP BUILDING
 
 <td width="50%" valign="top">
 
-### 06 — RESEARCH & OPEN SOURCE
+### 06 — INDEPENDENT RESEARCH
 
-**Independent Projects**
+**Open Source · Systems · ML**
 
-Building systems, research prototypes, and machine learning infrastructure from scratch.
+Building research prototypes, machine learning systems, simulators, and low-level software.
 
 <pre>
 RUST SYSTEMS
@@ -268,73 +223,139 @@ OPEN SOURCE
 
 ---
 
-## ~/publications
+## ~/research
 
 <div align="center">
 
 <pre>
-PUBLICATIONS / MANUSCRIPTS
+RESEARCH / PUBLICATIONS / MANUSCRIPTS
 ────────────────────────────────────────────
 </pre>
 
 </div>
 
-### 01 — UNDER REVIEW MANUSCRIPT
+### 01 — HOMOGENEOUS TO MULTI-SCALE INHOMOGENEOUS COMPLEX MAGNETISM IN Ba₃LnRu₂O₉ (Ln = Ho, Gd), PROBED BY μSR
 
-**Contributing Author · 5th / 6th Author**
+**Physical Review B · Under Review**
 
-Research contribution as part of a multi-author research collaboration.
+Contributing author in a collaborative research work.
 
 <pre>
 STATUS    : UNDER REVIEW
+JOURNAL   : PHYSICAL REVIEW B
 ROLE      : CONTRIBUTING AUTHOR
-POSITION  : 5th / 6th AUTHOR
 </pre>
-
-> Publication details will be updated after the review process.
 
 ---
 
 ### 02 — RAPID-ACC
 
-**Physics-Guided Machine Learning for Muon Site Prediction**
+**Muon-Site Detection Methodology for μSR**
 
-Developed at the **Quantum Materials Lab, RGIPT**, Rapid-ACC is a physics-guided machine learning framework for predicting favourable muon stopping sites in crystalline materials.
-
-The pipeline combines structured crystal representations, physics-guided 3D deep learning, optimisation, and refinement techniques to identify energetically favourable candidate sites.
+First-author research manuscript developed through the Quantum Materials Lab, RGIPT.
 
 <pre>
-CRYSTAL STRUCTURES
-        │
-        ▼
-SCIENTIFIC REPRESENTATION
-        │
-        ▼
-PHYSICS-GUIDED 3D MODEL
-        │
-        ▼
-CANDIDATE MUON SITES
-        │
-        ▼
-OPTIMIZATION + REFINEMENT
+STATUS    : SUBMITTED
+JOURNAL   : PHYSICAL REVIEW B
+ROLE      : FIRST AUTHOR
 </pre>
 
-<pre>
-STATUS   : SUBMITTED
-JOURNAL  : PHYSICAL REVIEW B
-TYPE     : RESEARCH MANUSCRIPT
-</pre>
+> Further technical and research details are available in my resume.
 
 ---
 
 <div align="center">
 
 <sub>
-some repositories are public. some papers are under review.
-some things are still cooking.
+some repositories are public. some manuscripts are under review.
+everything else is in the resume.
 </sub>
 
 </div>
+
+---
+
+## ~/achievements
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### SPALLATION NEUTRON SOURCE
+
+**IPTS-36564 · Oak Ridge National Laboratory**
+
+Awarded competitive neutron beam time at the Spallation Neutron Source as part of an experimental research proposal.
+
+<pre>
+SNS
+OAK RIDGE NATIONAL LAB
+IPTS-36564
+COMPETITIVE BEAM TIME
+</pre>
+
+</td>
+
+<td width="50%" valign="top">
+
+### UNION BANK IDEATHON
+
+**Finalist · Top 40 / 1500+ Teams**
+
+Recognized as a finalist for developing an innovative solution in fintech and banking technology.
+
+<pre>
+1500+ TEAMS
+TOP 40
+FINALIST
+FINTECH
+</pre>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### ISRO BHARATIYA ANTARIKSH HACKATHON 2026
+
+**Selected for Next Round · Top 2 in Problem Statement**
+
+Selected to advance in BAH 2026, with the team ranking among the **top 2 teams for the assigned problem statement**.
+
+<pre>
+ISRO BAH 2026
+TOP 2 — PROBLEM STATEMENT
+SELECTED FOR NEXT ROUND
+EARTH OBSERVATION / AI
+</pre>
+
+</td>
+
+<td width="50%" valign="top">
+
+### JEE ADVANCED
+
+**Qualified · 2025**
+
+Placed within the top 1–2% of approximately 1.5 million candidates appearing for JEE.
+
+<pre>
+JEE ADVANCED
+QUALIFIED
+TOP 1–2%
+~1.5M CANDIDATES
+</pre>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -347,6 +368,7 @@ some things are still cooking.
 </div>
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
@@ -361,13 +383,11 @@ BOLTZMANN MACHINES
 THERMAL FLUCTUATIONS
 ENERGY LANDSCAPES
 STOCHASTIC OPTIMIZATION
-MAXCUT
+MAX-CUT
 </pre>
 
 <a href="https://github.com/TheOrganic-code/P-bit-Simulator">
-
 [ OPEN_REPOSITORY ]
-
 </a>
 
 </td>
@@ -376,15 +396,15 @@ MAXCUT
 
 ### NEURARUST
 
-A neural network and tensor framework being built from scratch in Rust.
+A neural network framework being built from scratch in Rust.
 
 <pre>
 TENSORS
 AUTODIFF
 COMPUTATIONAL GRAPHS
 NN PRIMITIVES
-MEMORY MANAGEMENT
-PERFORMANCE
+MEMORY SAFETY
+ZERO-COST ABSTRACTIONS
 </pre>
 
 Build the machinery.
@@ -401,7 +421,7 @@ Understand every layer.
 
 ### B+TREE_RS
 
-A B+ Tree implementation in Rust focused on understanding ordered indexing and storage structures.
+A B+ Tree implementation in Rust focused on ordered indexing and storage structures.
 
 <pre>
 GENERIC TYPES
@@ -411,8 +431,6 @@ ORDERED TRAVERSAL
 LOGARITHMIC SEARCH
 MEMORY-SAFE DESIGN
 </pre>
-
-Because apparently writing balanced trees for fun is a reasonable use of time.
 
 </td>
 
@@ -430,13 +448,28 @@ APPLICATION SECURITY
 PIPELINE THINKING
 </pre>
 
-Security should be part of the architecture, not a panic-induced patch at 2 AM.
-
 </td>
 
 </tr>
 
 <tr>
+
+<td width="50%" valign="top">
+
+### SATFETCH
+
+Cross-modal satellite retrieval across Optical, SAR, Multispectral, and text queries.
+
+<pre>
+SATCLIP
+DOFA-CLIP
+SARCLIP
+FAISS
+UBER H3
+ZERO-SHOT RETRIEVAL
+</pre>
+
+</td>
 
 <td width="50%" valign="top">
 
@@ -453,41 +486,22 @@ MODEL EVALUATION
 
 </td>
 
-<td width="50%" valign="top">
-
-### BRAIN_TUMOR_CLASSIFIER
-
-Deep learning and computer vision pipeline.
-
-<pre>
-CNNs
-IMAGE PROCESSING
-TRAINING
-EVALUATION
-INTERPRETABILITY
-</pre>
-
-</td>
-
 </tr>
 
 <tr>
 
 <td width="50%" valign="top">
 
-### RAPID-ACC
+### BRAIN_TUMOR_CLASSIFIER
 
-Physics-guided machine learning for predicting favourable muon stopping sites in crystalline materials.
+Deep learning and computer vision pipeline for brain tumor classification.
 
 <pre>
-SCIENTIFIC REPRESENTATIONS
-3D DEEP LEARNING
-PHYSICAL CONSTRAINTS
-OPTIMIZATION
-SITE REFINEMENT
-
-MANUSCRIPT : SUBMITTED
-JOURNAL    : PHYSICAL REVIEW B
+CNNs
+IMAGE PROCESSING
+TRAINING
+EVALUATION
+GRAD-CAM
 </pre>
 
 </td>
@@ -550,15 +564,16 @@ MODE   : EXPERIMENTAL
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,rust,c,cpp,pytorch,sklearn,numpy,git,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,rust,c,cpp,pytorch,sklearn,numpy,git,github,linux&theme=dark"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/TRITON-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
 <img src="https://img.shields.io/badge/CUDA-EC4899?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/FAISS-22D3EE?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/PYMATGEN-A78BFA?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/SCIPY-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/RAG-22D3EE?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/LoRA_/_QLoRA-A78BFA?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/PYMATGEN-8B5CF6?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/FAISS-C084FC?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
@@ -592,15 +607,15 @@ MODE   : EXPERIMENTAL
 ║  LANGUAGE_RUNTIME       Python · Rust · C/C++                     ║
 ║  ML_BACKEND             PyTorch                                   ║
 ║  COMPUTE                Triton → CUDA                             ║
-║  RESEARCH_MODE          Scientific ML / Physical Systems          ║
+║  RESEARCH_MODE          ML / Scientific Computing / Systems       ║
 ║                                                                    ║
 ║  ────────────────────────────────────────────────────────────────  ║
 ║                                                                    ║
 ║  [████████████████████]  Python / ML                              ║
-║  [█████████████████   ]  Mathematics                             ║
-║  [████████████████    ]  Deep Learning                           ║
-║  [█████████████       ]  Systems Programming                     ║
-║  [██████████          ]  GPU Programming                         ║
+║  [█████████████████   ]  Mathematics                              ║
+║  [████████████████    ]  Deep Learning                            ║
+║  [█████████████       ]  Systems Programming                      ║
+║  [██████████          ]  GPU Programming                          ║
 ║                                                                    ║
 ║  ACTIVE PROCESSES                                                 ║
 ║                                                                    ║
@@ -641,7 +656,7 @@ MODE   : EXPERIMENTAL
 
 <a href="https://github.com/TheOrganic-code/TheOrganic-code/blob/main/Ayush_Pandey_Research_Resume.pdf">
 
-<img src="https://img.shields.io/badge/DOWNLOAD-RESEARCH_RESUME-8B5CF6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/DOWNLOAD-RESUME-8B5CF6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=0D1117"/>
 
 </a>
 
@@ -657,7 +672,7 @@ MODE   : EXPERIMENTAL
 
 <sub>
 
-Scientific machine learning · probabilistic computing · high-performance inference · systems engineering
+Machine learning · scientific computing · AI systems · probabilistic computing · high-performance software
 
 </sub>
 
