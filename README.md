@@ -40,7 +40,7 @@ $ cat profile.txt
 
 name        : Ayush Pandey
 education   : B.Tech, Mathematics & Computing @ RGIPT
-academic    : CPI 8.68
+academic    : CPI 8.22
 domain      : Machine Learning · Scientific Computing · Systems
 
 interests   : scientific ML, probabilistic computing,
