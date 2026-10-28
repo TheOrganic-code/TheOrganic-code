@@ -1,198 +1,145 @@
 <div align="center">
 
-```text
- █████╗ ██╗   ██╗██╗   ██╗███████╗██╗  ██╗
-██╔══██╗╚██╗ ██╔╝██║   ██║██╔════╝██║  ██║
-███████║ ╚████╔╝ ██║   ██║███████╗███████║
-██╔══██║  ╚██╔╝  ██║   ██║╚════██║██╔══██║
-██║  ██║   ██║   ╚██████╔╝███████║██║  ██║
-╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝
-
-██████╗  █████╗ ███╗   ██╗██████╗ ███████╗██╗   ██╗
-██╔══██╗██╔══██╗████╗  ██║██╔══██╗██╔════╝╚██╗ ██╔╝
-██████╔╝███████║██╔██╗ ██║██║  ██║█████╗   ╚████╔╝
-██╔═══╝ ██╔══██║██║╚██╗██║██║  ██║██╔══╝    ╚██╔╝
-██║     ██║  ██║██║ ╚████║██████╔╝███████╗   ██║
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝   ╚═╝
+```
+    ▄▀█ █▄░█ █░█ █▀ █░█   P H Y S I C S   ×   M A C H I N E   L E A R N I N G
+    █▀█ █░▀█ ▀▄▀ ▄█ █▀█   QUANTUM MATERIALS  ·  EARTH OBSERVATION  ·  QEC
 ```
 
-**Physics-informed machine learning for quantum materials and Earth observation**
+# Ayush Pandey
 
-B.Tech Mathematics and Computing, Rajiv Gandhi Institute of Petroleum Technology
+### I build machine-learning tools that listen to physics.
 
-<img src="https://img.shields.io/badge/CPI-8.22_%2F_10-FFB000?style=for-the-badge&labelColor=000000"/>
-<img src="https://img.shields.io/badge/ORCID-0009--0003--9128--8045-39FF14?style=for-the-badge&logo=orcid&logoColor=39FF14&labelColor=000000"/>
+**Undergraduate researcher @ RGIPT**  ·  **Quantum Materials Lab**  ·  **Qinetic Research Labs**
 
-</div>
+*From muons in quantum magnets to heat waves seen from space—my work connects scientific insight with machine learning.*
 
-<br/>
-
-| First-author paper | Neutron beam time | Conference poster | ISRO BAH 2026 |
-|:---:|:---:|:---:|:---:|
-| **MEOWN**<br/>under review, Phys. Rev. B | **SNS, Oak Ridge**<br/>as on-site PI | **ICORSI 2026**<br/>accepted, New Delhi | **Rank 2**<br/>PS-11, India |
-
----
-
-## Profile
-
-```text
-┌─[ profile ]────────────────────────────────────────────────────────────┐
-│ name       Ayush Pandey                                                │
-│ degree     B.Tech, Mathematics and Computing, RGIPT (2025-2029)        │
-│ cpi        8.22 / 10                                                   │
-│ labs       Quantum Materials Lab (RGIPT), Qinetic Research Labs        │
-│ methods    ML / muSR / INS / Raman / XRD / Optimization / QEC          │
-│ focus      Physics-informed ML, quantum materials, remote sensing      │
-│ orcid      0009-0003-9128-8045                                         │
-└────────────────────────────────────────────────────────────────────────┘
-```
-
-I work on the interface of machine learning and physical science. In the Quantum Materials Lab at RGIPT I combine muon spin spectroscopy (µSR), inelastic neutron scattering (INS), Raman spectroscopy and X-ray diffraction with physics-informed neural networks and optimization to study magnetism in correlated materials. I also work on quantum error correction at Qinetic Research Labs, and on remote sensing and Earth observation.
-
----
-
-## Featured research: MEOWN
-
-**Muon Engine for Optimized Weighted Networks.** A physics-informed computational framework for predicting where the muon stops inside a crystal, the central unknown in interpreting µSR data on quantum magnets. First-author work from the Quantum Materials Lab, RGIPT. Under review at Physical Review B; preprint at [arXiv:2609.17063](https://arxiv.org/abs/2609.17063).
-
-The standard route to a muon stopping site is DFT-based structural relaxation, which is slow. MEOWN couples a Polarizable Unperturbed Electrostatic Potential (P-UEP) model with a 3D convolutional network, machine-learning-guided optimization and symmetry-driven relaxation. It predicts the equilibrium stopping site **within a few minutes on a standard computer**, with sites and dipolar fields in close agreement with previously reported DFT+µ results across chemically diverse systems. It ships as general-purpose software with a graphical interface, and the same pipeline has dedicated physics-guided seeding for fluoride compounds such as CoF<sub>2</sub>.
-
-```text
-┌────────────────────────────────────┐
-│ INPUT   crystal structure          │
-└──────────────────┬─────────────────┘
-                   ▼
-┌────────────────────────────────────┐
-│ 01  P-UEP physics engine           │  electrostatic, polarization,
-└──────────────────┬─────────────────┘  overlap-repulsion, screening
-                   ▼
-┌────────────────────────────────────┐
-│ 02  3D convolutional network       │  predicts likely muon
-└──────────────────┬─────────────────┘  localization regions
-                   ▼
-┌────────────────────────────────────┐
-│ 03  candidate generation           │  CNN maxima + physics-guided
-└──────────────────┬─────────────────┘  seeds (interstitial, F-F bridge)
-                   ▼
-┌────────────────────────────────────┐
-│ 04  relaxation                     │  L-BFGS-B, then trust-region
-└──────────────────┬─────────────────┘  ultra-precision refinement
-                   ▼
-┌────────────────────────────────────┐
-│ OUTPUT  ranked stopping sites      │  total energy incl. zero-point
-└────────────────────────────────────┘  correction; dipolar fields
-```
-
----
-
-## Publications and conferences
-
-| Work | Role | Status |
-|---|---|---|
-| **MEOWN: physics-informed neural framework for rapid prediction of muon stopping sites in crystalline materials** | First author | Under review, *Physical Review B*. [arXiv:2609.17063](https://arxiv.org/abs/2609.17063) |
-| **Homogeneous to Multi-Scale Inhomogeneous Complex Magnetism in Ba<sub>3</sub>LnRu<sub>2</sub>O<sub>9</sub> (Ln = Ho, Gd), Probed by µSR**<br/>S. Ghosh, E. Kushwaha, M. Kumar, G. Roy, K. Sharma, A. Pandey, F. L. Pratt, S. Cottrell, D. T. Adroja, T. Basu | Contributing author | Under review, *Physical Review B* |
-| **EmberSentinel: a physics-informed ConvLSTM architecture for latent-consistent spatio-temporal heat wave risk prediction in the Indo-Gangetic Plains** | Author | Accepted for poster presentation, ICORSI 2026 (Operational Research Society of India, 59th Annual Convention), AI, Machine Learning and Modern Technologies track |
-| **Grokking in root-function networks.** Networks trained on x<sup>1/k</sup>, k = 2 to 10, with a hypothesised critical threshold k\* above which generalization permanently fails. x<sup>1/4</sup> grokked after a ~5,400-step delay; x<sup>1/5</sup> did not generalize in 30,000 steps. | Author | In preparation, arXiv preprint |
-| Co-authored paper accepted at ESTIC | Co-author | Accepted (not attending) |
-
----
-
-## Research experience
-
-**[Quantum Materials Lab, RGIPT](https://sites.google.com/rgipt.ac.in/magneism-lab/home)** · Undergraduate Researcher · Jan 2026 to present
-ML · µSR · INS · Raman spectroscopy · XRD · Optimization
-
-- Develop and validate MEOWN, the group's physics-informed software for muon-site prediction, and model dipolar and local fields in crystal structures with PINNs and PhyCNNs.
-- Work across experiment and computation: µSR, inelastic neutron scattering, Raman spectroscopy and X-ray diffraction on correlated quantum materials, with computational materials modelling in Pymatgen and PyTorch.
-- Awarded neutron beam time at the Spallation Neutron Source, Oak Ridge National Laboratory, as on-site Principal Investigator (IPTS-36564).
-- Led the computational µSR modelling independently, and collaborated with faculty and STFC/ISIS (UK) collaborators on two manuscripts.
-
-**[Qinetic Research Labs](https://www.qinetic.org/)** · Researcher, remote (US-based) · Jun 2026 to present
-Quantum error correction · quantum machine learning
-
-- Research at the intersection of quantum computing, quantum mechanics and machine learning, applying PINN strategies to quantum computing problems and extending physics-informed learning to non-classical systems.
-
----
-
-## Remote sensing and Earth observation
-
-| Project | Description |
-|---|---|
-| **SatFetch** | Cross-modal satellite retrieval over Indian EO data from optical, SAR, multispectral and text queries. FAISS with Uber H3 indexing for joint semantic and geographic search; zero-shot cross-sensor retrieval with SatCLIP, DOFA-CLIP and SARCLIP. Selected for the next round of ISRO BAH 2026. |
-| **EmberSentinel** | Physics-informed ConvLSTM for heat wave risk prediction across the Indo-Gangetic Plains. Accepted at ICORSI 2026. |
-| **ISRO Bharatiya Antariksh Hackathon 2026** | Ranked 2 in problem statement PS-11 in India; selected for the next round. |
-| **ICCFGC** | Data Scientist (Jul 2026 to present, Coimbatore). Machine learning for urban planning and remote sensing. |
-
----
-
-## Selected projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **NeuraRust** | Neural network framework written from scratch in Rust, with no external ML dependencies. Tensor operations, automatic differentiation and modular layer APIs. | Rust |
-| **[P-bit Simulator](https://github.com/TheOrganic-code/P-bit-Simulator)** | Physics-informed probabilistic bit simulator for Ising spin systems and Boltzmann machines with tunable thermal noise. Convergence verified on MAX-CUT benchmarks. | PyTorch, NumPy |
-
----
-
-## Industry
-
-**Digitwin Technology** · AI Engineer Intern · May to Jul 2026, Chennai
-Fine-tuned LLMs on industrial datasets with LoRA/QLoRA and built RAG pipelines for retrieval over proprietary knowledge bases, taking research-grade methods into production systems.
-
----
-
-## Recognition
-
-- **Spallation Neutron Source, Oak Ridge National Laboratory.** Competitive neutron beam time (IPTS-36564) as on-site Principal Investigator, Jun 2026.
-- **ICORSI 2026.** Poster accepted, AI, Machine Learning and Modern Technologies track.
-- **ISRO Bharatiya Antariksh Hackathon 2026.** Ranked 2 in PS-11 in India; selected for the next round.
-- **Union Bank Ideathon.** Finalist, top 40 of 1500+ teams, Jun 2026.
-- **JEE Advanced.** Qualified, top 1 to 2% of roughly 1.5 million candidates, 2025.
-- **Training and Placement Co-ordinator,** Department of Mathematical Sciences, RGIPT.
-
----
-
-## Stack
-
-```text
-┌─[ stack ]──────────────────────────────────────────────────────────────┐
-│ languages     Python  C++  Rust  LaTeX  MATLAB                         │
-│ ml            PyTorch  scikit-learn  CNNs  ConvLSTM  PINNs             │
-│               Energy-Based Models  Grad-CAM  LoRA/QLoRA                │
-│ llm           KV Cache  FlashAttention  Speculative Decoding           │
-│               GPTQ  AWQ  vLLM  torch.compile                           │
-│ scientific    NumPy  SciPy  Pandas  Pymatgen  Matplotlib  Seaborn      │
-│ geospatial    FAISS  Uber H3  SatCLIP  DOFA-CLIP  SARCLIP              │
-│ tools         Git  Linux  WSL2                                         │
-├────────────────────────────────────────────────────────────────────────┤
-│ exploring     GPU programming (Triton, CUDA), quantum computing        │
-└────────────────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,rust,cpp,pytorch,sklearn,numpy,pandas,scipy,matlab,latex,git,linux&theme=dark"/>
+[![CPI](https://img.shields.io/badge/CPI-8.22%2F10-101820?style=for-the-badge&labelColor=ffbf69)](https://github.com/TheOrganic-code)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--9128--8045-101820?style=for-the-badge&logo=orcid&logoColor=A6CE39&labelColor=171717)](https://orcid.org/0009-0003-9128-8045)
+[![ISRO BAH](https://img.shields.io/badge/ISRO_BAH_2026-India_Rank_%232-101820?style=for-the-badge&labelColor=8ecae6)](https://github.com/TheOrganic-code)
 
 </div>
 
 ---
 
-## GitHub
+## The short version
 
-<div align="center">
+I’m pursuing a **B.Tech in Mathematics and Computing at RGIPT (2025–2029)**, working where physical science meets computation. In the Quantum Materials Lab, I combine **µSR, neutron scattering, Raman and XRD** with physics-informed learning to study correlated materials. At **Qinetic Research Labs**, I explore quantum error correction and quantum machine learning. I also build tools for satellite imagery and Earth observation.
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=TheOrganic-code&show_icons=true&border_color=39FF14&bg_color=000000&title_color=39FF14&text_color=39FF14&icon_color=FFB000&rank_icon=github"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheOrganic-code&layout=compact&border_color=39FF14&bg_color=000000&title_color=39FF14&text_color=39FF14"/>
+> **My north star:** let data-driven models learn from physics—not work around it.
 
-</div>
+| Quantum materials | Earth observation | Quantum computing |
+| --- | --- | --- |
+| MEOWN · µSR · INS · PINNs · magnetic materials | SatFetch · EmberSentinel · satellite retrieval · heat risk | Quantum error correction · quantum ML |
+
+## Featured research · MEOWN
+
+### Finding where the muon lives—without the long wait.
+
+**MEOWN (Muon Engine for Optimized Weighted Networks)** is a physics-informed framework for predicting muon stopping sites in crystals, a key unknown in interpreting µSR experiments. It brings together a **polarizable electrostatic model (P-UEP)**, a **3D convolutional network**, physics-guided candidate generation, and symmetry-aware optimization.
+
+The goal: move from crystal structure to ranked stopping sites and dipolar fields in **minutes on a standard computer**, with predictions benchmarked against reported DFT+µ results. The software includes a graphical interface, with dedicated physics-guided seeding for fluoride compounds such as CoF₂.
+
+**First author · under review at Physical Review B** · [Read the preprint on arXiv](https://arxiv.org/abs/2609.17063)
+
+```
+CRYSTAL STRUCTURE  →  P-UEP PHYSICS  →  3D CNN  →  CANDIDATE SITES
+                                              ↓
+RANKED SITES + DIPOLE FIELDS  ←  RELAXATION + REFINEMENT
+```
+
+## Research & building
+
+### Quantum Materials Lab · RGIPT
+
+**Undergraduate Researcher · Jan 2026–present**
+
+Developing MEOWN and modeling local and dipolar fields with physics-informed neural networks. My work spans computational materials science and experiment—µSR, inelastic neutron scattering, Raman spectroscopy and X-ray diffraction—using tools including PyTorch and Pymatgen. Awarded neutron beam time at the **Spallation Neutron Source, Oak Ridge National Laboratory**, as on-site PI (**IPTS-36564**).
+
+### Qinetic Research Labs
+
+**Researcher · Jun 2026–present**
+
+Exploring quantum error correction and quantum machine learning, including physics-informed strategies for problems in quantum computing.
+
+### Digitwin Technology
+
+**AI Engineer Intern · May–Jul 2026 · Chennai**
+
+Fine-tuned language models on industrial data with LoRA/QLoRA and built RAG pipelines to retrieve information from proprietary knowledge bases.
+
+### Earth observation & remote sensing
+
+- **SatFetch** — Cross-modal search over Indian Earth-observation data, spanning optical, SAR, multispectral and text queries. Combines FAISS, Uber H3 indexing and zero-shot cross-sensor models. **Selected for the next round of ISRO Bharatiya Antariksh Hackathon 2026 (PS-11, India rank #2).**
+
+- **EmberSentinel** — Physics-informed ConvLSTM for heat-wave risk prediction across the Indo-Gangetic Plains. **Poster accepted at ICORSI 2026.**
+
+- **ICCFGC** — Data Scientist, applying machine learning to urban planning and remote sensing.
+
+## Selected work
+
+| Project | What it does | Tools |
+| --- | --- | --- |
+| **MEOWN** | Physics-informed prediction of muon stopping sites in crystalline materials | PyTorch · 3D CNN · P-UEP · optimization |
+| **SatFetch** | Geographic and semantic retrieval across satellite imagery and modalities | FAISS · Uber H3 · SatCLIP · DOFA-CLIP · SARCLIP |
+| **EmberSentinel** | Latent-consistent spatio-temporal heat-wave risk prediction | ConvLSTM · physics-informed ML |
+| [**P-bit Simulator**](https://github.com/TheOrganic-code/P-bit-Simulator) | Probabilistic-bit simulator for Ising systems and Boltzmann machines; tested on MAX-CUT | PyTorch · NumPy |
+| **NeuraRust** | Neural-network framework built from scratch, with tensor operations and automatic differentiation | Rust |
+| **Grokking in root-function networks** | Studying generalization thresholds in networks trained on $$x^{1/k}$$ | Neural networks · experiments |
+
+## Selected publications & presentations
+
+- **MEOWN: Physics-informed neural framework for rapid prediction of muon stopping sites in crystalline materials** — First author; under review at *Physical Review B*. [arXiv:2609.17063](https://arxiv.org/abs/2609.17063)
+
+- **Homogeneous to Multi-Scale Inhomogeneous Complex Magnetism in Ba₃LnRu₂O₉ (Ln = Ho, Gd), Probed by µSR** — Contributing author; under review at *Physical Review B*.
+
+- **EmberSentinel** — Poster accepted, **ICORSI 2026**, AI, Machine Learning and Modern Technologies track.
+
+- **Grokking in root-function networks** — In preparation.
+
+- Co-authored paper accepted at **ESTIC**.
+
+## A few milestones
+
+- **India rank #2**, ISRO Bharatiya Antariksh Hackathon 2026, problem statement PS-11; advanced to the next round.
+
+- **Competitive neutron beam time**, Spallation Neutron Source, Oak Ridge National Laboratory; on-site Principal Investigator.
+
+- **Poster accepted**, ICORSI 2026.
+
+- **Finalist**, Union Bank Ideathon — top 40 of 1,500+ teams.
+
+- **Qualified JEE Advanced 2025** — top 1–2% of approximately 1.5 million candidates.
+
+- Training and Placement Coordinator, Department of Mathematical Sciences, RGIPT.
+
+## My toolkit
+
+**Languages** · Python · C++ · Rust · MATLAB · LaTeX
+**ML & AI** · PyTorch · scikit-learn · CNNs · ConvLSTM · PINNs · energy-based models · Grad-CAM · LoRA/QLoRA
+**Scientific computing** · NumPy · SciPy · Pandas · Pymatgen · Matplotlib · Seaborn
+**Geospatial & vision** · FAISS · Uber H3 · SatCLIP · DOFA-CLIP · SARCLIP
+**LLM systems** · KV cache · FlashAttention · speculative decoding · GPTQ · AWQ · vLLM · `torch.compile`
+**Tools** · Git · Linux · WSL2
+**Currently exploring** · GPU programming with Triton/CUDA · quantum computing
+
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,rust,cpp,pytorch,sklearn,numpy,pandas,scipy,matlab,latex,git,linux&theme=dark" alt="Python, Rust, C++, PyTorch, scikit-learn, NumPy, Pandas, SciPy, MATLAB, LaTeX, Git and Linux" /> </div>
+
+## GitHub activity
+
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=TheOrganic-code&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8ecae6&text_color=c9d1d9&icon_color=ffbf69&rank_icon=github" alt="Ayush's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheOrganic-code&layout=compact&hide_border=true&bg_color=0d1117&title_color=8ecae6&text_color=c9d1d9" alt="Most used languages" /> </div>
 
 ---
 
 <div align="center">
 
-<a href="mailto:25mc3016@rgipt.ac.in"><img src="https://img.shields.io/badge/EMAIL-25mc3016%40rgipt.ac.in-39FF14?style=for-the-badge&labelColor=000000&logo=gmail&logoColor=39FF14"/></a>
-<a href="https://linkedin.com/in/ayushpandey1801"><img src="https://img.shields.io/badge/LINKEDIN-AYUSH_PANDEY-FFB000?style=for-the-badge&labelColor=000000&logo=linkedin&logoColor=FFB000"/></a>
-<a href="https://huggingface.co/TheOrganic-code"><img src="https://img.shields.io/badge/HUGGING_FACE-THEORGANIC--CODE-39FF14?style=for-the-badge&labelColor=000000&logo=huggingface&logoColor=39FF14"/></a>
-<a href="https://github.com/TheOrganic-code/TheOrganic-code/blob/main/Ayush_Pandey_Research_Resume.pdf"><img src="https://img.shields.io/badge/RESUME-PDF-FFB000?style=for-the-badge&labelColor=000000&logo=adobeacrobatreader&logoColor=FFB000"/></a>
+### Curious about physics, ML, or a collaboration? Let’s talk.
+
+[![Email](https://img.shields.io/badge/Email-25mc3016%40rgipt.ac.in-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:25mc3016@rgipt.ac.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush_Pandey-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/ayushpandey1801)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-TheOrganic--code-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)](https://huggingface.co/TheOrganic-code)
+[![Resume](https://img.shields.io/badge/Resume-PDF-0d1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=ed2224)](https://github.com/TheOrganic-code/TheOrganic-code/blob/main/Ayush_Pandey_Research_Resume.pdf)
+
+<sub>Mathematics × physics × machine learning · Building tools for questions worth asking.</sub>
 
 </div>
