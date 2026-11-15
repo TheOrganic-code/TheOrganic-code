@@ -12,4 +12,4 @@ i also contributed to a paper on complex magnetism in ba₃lnru₂o₉ (ln = ho,
 
 i mostly write python, c++ and rust, with pytorch, numpy, scipy, pymatgen and faiss doing most of the work. right now i'm learning gpu programming with triton and cuda, and more quantum computing.
 
-[email](mailto:25mc3016@rgipt.ac.in) · [linkedin](https://linkedin.com/in/ayushpandey1801) · [orcid](https://orcid.org/0009-0003-9128-8045) · [hugging face](https://huggingface.co/TheOrganic-code) · [résumé](https://github.com/TheOrganic-code/TheOrganic-code/blob/main/Ayush_Pandey_Research_Resume.pdf)
+[email](mailto:25mc3016@rgipt.ac.in) · [linkedin](https://linkedin.com/in/ayushpandey1801) · [orcid](https://orcid.org/0009-0003-9128-8045) · [hugging face](https://huggingface.co/TheOrganic-code) · [résumé](https://github.com/TheOrganic-code/TheOrganic-code/blob/main/resume_private.pdf)
